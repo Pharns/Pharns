@@ -7,9 +7,9 @@
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - <b>Twingate Zero Trust Network Access (AlgoExpert)</b>
-  - [Setup,configured and deployed zero trust acess to home lab and remote networks](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Setup,configured and deployed zero trust network acess to home lab and remote networks](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>File Cloud - Hyper-Secure Enterprise File Sharing, Sync, Backup and Remote Access)</b>
+  - [Setup, configured and deployed for home lab and family use](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
 <h2>📺 Popular YouTube Videos</h2>
