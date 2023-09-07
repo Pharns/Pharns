@@ -2,7 +2,7 @@
 
 <h2>📃 Certifications:</h2>
 
-- [(ISC)2 Certified in Cybersecurity (CC) ](https://github.com/Pharns/Twingate-Lab)
+- [(ISC)2 Certified in Cybersecurity (CC) ](https://github.com/Pharns/Pharns/blob/main/Coursera%207PXNLJBZX593.pdf)
 
   
 <h2>💻 Cybersecurity Projects:</h2>
