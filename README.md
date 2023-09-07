@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pharns! pronounced: "Founce" 😄 <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Pharns! pronounced: "Founce" 😄 <br/><a href="https://www.linkedin.com/in/pharns/">Drone SME</a>, <a href="https://github.com/Pharns">Cybersecurity Student</a>, <a href="https://youtube.com/@PharnsGenece?si=oKLRWZWFlMvSUvTo">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
