@@ -1,6 +1,6 @@
 <h1>Hi, I'm Pharns! pronounced: "Founce" 😄 <br/><a href="https://www.linkedin.com/in/pharns/">Drone SME</a>, <a href="https://github.com/Pharns">Cybersecurity Student</a>, <a href="https://youtube.com/@PharnsGenece?si=oKLRWZWFlMvSUvTo">YouTuber</a></h1>
 
-<h2>🔖 Certifications:</h2>
+<h2>📜 Certifications:</h2>
 
 - [(ISC)2 Certified in Cybersecurity (CC) ](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Oceanside Harbor Aerial Dance (Drone Video) ](https://youtu.be/xxSVpFxjK00?si=F45V31UJdrDYh6Xu)
