@@ -4,6 +4,9 @@
 
 - [(ISC)2 Certified in Cybersecurity (CC) ](https://github.com/joshmadakor1/Algorithms-Practice)
 
+  
+<h2>💻 Cybersecurity Projects:</h2>
+
 - <b>Twingate - Zero Trust Network Access </b>
   - [Setup,configured and deployed zero trust network acess to home lab and remote networks](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>File Cloud - Hyper-Secure Enterprise File Sharing, Sync, Backup and Remote Access)</b>
