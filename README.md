@@ -6,7 +6,7 @@
 - [Oceanside Harbor Aerial Dance (Drone Video) ](https://youtu.be/xxSVpFxjK00?si=F45V31UJdrDYh6Xu)
 <h2>🖥️ Cybersecurity Projects:</h2>
 
-- <b>Twingate - Zero Trust Network Access (AlgoExpert)</b>
+- <b>Twingate - Zero Trust Network Access </b>
   - [Setup,configured and deployed zero trust network acess to home lab and remote networks](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>File Cloud - Hyper-Secure Enterprise File Sharing, Sync, Backup and Remote Access)</b>
   - [Setup, configured and deployed for home lab and family use](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
