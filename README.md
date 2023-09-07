@@ -3,8 +3,6 @@
 <h2>📃 Certifications:</h2>
 
 - [(ISC)2 Certified in Cybersecurity (CC) ](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Oceanside Harbor Aerial Dance (Drone Video) ](https://youtu.be/xxSVpFxjK00?si=F45V31UJdrDYh6Xu)
-<h2>🖥️ Cybersecurity Projects:</h2>
 
 - <b>Twingate - Zero Trust Network Access </b>
   - [Setup,configured and deployed zero trust network acess to home lab and remote networks](https://github.com/joshmadakor1/Algorithms-Practice)
