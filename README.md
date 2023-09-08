@@ -10,7 +10,7 @@
 - [Twingate - Zero Trust Network Access](https://github.com/Pharns/Twingate-Lab)
 
 - <b>File Cloud - Hyper-Secure Enterprise File Sharing, Sync, Backup and Remote Access)</b>
-  - [Setup, configured and deployed for home lab and family use](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+ 
 
 
 <h2>📺 Popular YouTube Videos</h2>
