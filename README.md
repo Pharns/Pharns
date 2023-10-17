@@ -4,6 +4,8 @@
 
 - [(ISC)2 Certified in Cybersecurity (CC) ](https://github.com/Pharns/Pharns/blob/main/Coursera%207PXNLJBZX593.pdf)
 - CompTIA A+ (Pending Oct 2023)
+
+<h2>🎓 Continued Professional Education (CPE):</h2>
   
 <h2>💻 Cybersecurity Projects:</h2>
 
