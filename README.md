@@ -56,7 +56,7 @@ Here are the certifications I’ve earned as part of my cybersecurity journey:
 
 | Course Name                              | Completion Date  | Highlights                                                          | Certificate |
 | ---------------------------------------- | ---------------- | -------------------------------------------------------------------- | ----------- |
-| The Definitive GRC Analyst Master Class  | 05/18/2023       | Governance, Risk Management, Compliance (GRC) frameworks.            | [View Certificate](https://github.com/YourUsername/YourRepository/blob/main/GRC_Analyst_Certificate.pdf) |
+| The Definitive GRC Analyst Master Class  | 05/18/2023       | Governance, Risk Management, Compliance (GRC) frameworks.            | [View Certificate](https://github.com/Pharns/Pharns/blob/e47c51f47c4b655f43165e82836a4f72d698d742/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf) |
 
 
 <!--
