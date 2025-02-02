@@ -86,7 +86,7 @@ Here are the certifications I’ve earned as part of my cybersecurity journey:
 | Course Name                              | Completion Date  | Highlights                                                          | Certificate |
 | ---------------------------------------- | ---------------- | -------------------------------------------------------------------- | ----------- |
 | Active Defense & Cyber Deception - John Strand| 05/11/2023 |Active Defense, Offensive Countermeasure & Cyber Deception|  [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf "Click to view/download the certificate") |
-| The Definitive GRC Analyst Master Class  | 05/18/2023       | Governance, Risk Management, Compliance (GRC) frameworks.            | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf "Click to view/download the certificate") |
+| The Definitive GRC Analyst Master Class  | 05/18/2023       | Governance, Risk Management, Compliance (GRC) frameworks.            | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/Badge_cfacfdc483074553b238d91bfec919a0.pdf "Click to view/download the certificate") |
 
 ---
 
