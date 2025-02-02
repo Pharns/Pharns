@@ -8,8 +8,7 @@ Hi, I'm Pharns ("Founce") and this is my Cyber Security Portfolio. I am currentl
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  [SIEM](https://github.com/iMentorYT/SIEM/tree/main)
-   |
+| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  [SIEM](https://github.com/iMentorYT/SIEM/tree/main)|
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
