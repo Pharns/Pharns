@@ -19,12 +19,13 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| (ISC)2 Certified in Cybersecurity |                xx/xx/xx                |     [Verify](https://www.coursera.org/account/accomplishments/specialization/7PXNLJBZX593)       | 
-| CompTIA A+     |                xx/xx/xx                |     xxx        | 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+| (ISC)2 Certified in Cybersecurity | 03/17/2023 | [Verify](https://www.coursera.org/account/accomplishments/specialization/7PXNLJBZX593)| 
+| CompTIA A+     | 02/27/2024| [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0)| 
+| CompTIA Network+ | 01/07/2025 | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) | 
+| CompTIA Security+ | 01/17/2025 | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) | 
+| CompTIA CSIS+     | 01/17/2025 | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) | 
+| CompTIA CIOS+     | 01/17/2025 |  [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) | 
+| ITIL4 Foundations | Pending |  | 
 
 
 
