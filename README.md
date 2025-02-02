@@ -7,6 +7,7 @@ As a **licensed professional drone pilot and builder**, I’m developing a **pro
 
 I’m seeking a role where I can apply my skills, certifications, and passion for cybersecurity to solve emerging threats. Explore my portfolio below to see how I combine creativity and technical expertise to make a meaningful impact.
 
+
 ## 📂 Project Portfolio
 Here are some hands-on projects from my homelab that showcase my practical skills in cybersecurity.
 
@@ -18,8 +19,6 @@ Here are some hands-on projects from my homelab that showcase my practical skill
 | **Vulnerability Assessment** | Vulnerability Scanning, Reporting  | Nessus          |  [View Project](#) (Coming Soon) |
 | **Incident Response Workflow** | Threat Analysis, Incident Response | The Hive, Cortex | [View Project](#) (Coming Soon) |
 | **Penetration Testing** | Ethical Hacking, Exploitation         | Kali Linux, DVWA| [View Project](#) (Coming Soon) |
-
----
 
 ### 🌟 Featured Projects Explained
 #### 🔒 **Building a SIEM**
