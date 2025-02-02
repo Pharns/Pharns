@@ -88,6 +88,7 @@ Here are the certifications I’ve earned as part of my cybersecurity journey:
 | Active Defense & Cyber Deception - John Strand| 05/11/2023 |Active Defense, Offensive Countermeasure & Cyber Deception|  [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/certificate-of-completion-for-the-definitive-grc-analyst-master-class.pdf "Click to view/download the certificate") |
 | The Definitive GRC Analyst Master Class  | 05/18/2023       | Governance, Risk Management, Compliance (GRC) frameworks.            | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/Badge_cfacfdc483074553b238d91bfec919a0.pdf "Click to view/download the certificate") |
 | SOC Core Skills  | 06/15/2023 | Intro to Windows, Linux, TCP, SOC Basics & Fundamentals | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/SOC%20Core%20SkillsBadge_5186c1bae05840ca989d62ba4d58b4fd.pdf "Click to view/download the certificate") |
+| OSINT Uncovered  | 07/23/2023 | OSINT Resources & Strategies | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/SOC%20Core%20SkillsBadge_5186c1bae05840ca989d62ba4d58b4fd.pdf "Click to view/download the certificate") |
 ---
 
 ### 🚀 About Me
