@@ -1,11 +1,15 @@
 # Pharns' Porfolio
 
-## Portfolio
+# Welcome to Pharns' Cybersecurity Portfolio! 👋
 
-Hi, I'm Pharns ("Founce") and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity professional with expertise in **threat detection**, **incident response**, and **vulnerability management**. With certifications like **CompTIA Security+**, **Network+**, and **(ISC)² Certified in Cybersecurity**, I apply my skills through a robust **homelab** featuring tools like **The Hive**, **Nessus**, and **Security Onion**.
 
+As a **licensed professional drone pilot and builder**, I’m developing a **proof of concept** showcasing how drones equipped with SDR (software-defined radio) can exploit vulnerabilities in computers—merging cutting-edge technology with cybersecurity research. I’m also advancing my skills in **penetration testing** using tools like the **WiFi Pineapple**, **HackRF One**, and **Rubber Ducky** for wireless auditing and exploit testing.
 
-## Project Overview 
+I’m seeking a role where I can apply my skills, certifications, and passion for cybersecurity to solve emerging threats. Explore my portfolio below to see how I combine creativity and technical expertise to make a meaningful impact.
+
+## 📂 Project Portfolio
+(Include table with descriptions)
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  [SIEM](https://github.com/iMentorYT/SIEM/tree/main)|
@@ -16,27 +20,34 @@ Hi, I'm Pharns ("Founce") and this is my Cyber Security Portfolio. I am currentl
 
 - [File Cloud - Hyper-Secure Enterprise File Sharing, Sync, Backup and Remote Access](https://github.com/Pharns/Filecloud-Lab)
 
-  
-## Certifications 
-|     Certification     |               Completed               |     Link       |
-| --------------------  | -------------------------------------- | ---------------| 
-| (ISC)2 Certified in Cybersecurity | 03/17/2023 | [Verify](https://www.coursera.org/account/accomplishments/specialization/7PXNLJBZX593)| 
-| CompTIA A+     | 02/27/2024| [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0)| 
-| CompTIA Network+ | 01/07/2025 | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) | 
-| CompTIA Security+ | 01/17/2025 | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) | 
-| CompTIA CSIS+     | 01/17/2025 | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) | 
-| CompTIA CIOS+     | 01/17/2025 |  [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) | 
-| ITIL4 Foundations | Pending |  | 
+
+
+## 📜 Certifications
+
+Here are the certifications I’ve earned as part of my cybersecurity journey:
+
+| Certification                     | Completion Date  | Verification Link                                                                 |
+| --------------------------------- | ---------------- | --------------------------------------------------------------------------------- |
+| ![ISC2](https://img.shields.io/badge/(ISC)%C2%B2-Certified%20in%20Cybersecurity-blue)     | 03/17/2023       | [Verify](https://www.coursera.org/account/accomplishments/specialization/7PXNLJBZX593) |
+| ![CompTIA](https://img.shields.io/badge/CompTIA-A%2B-red)                                 | 02/27/2024       | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) |
+| ![CompTIA](https://img.shields.io/badge/CompTIA-Network%2B-orange)                       | 01/07/2025       | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) |
+| ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-yellow)                      | 01/17/2025       | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) |
+| ![CompTIA](https://img.shields.io/badge/CompTIA-CySA%2B-green)                           | 01/17/2025       | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) |
+| ![ITIL4](https://img.shields.io/badge/ITIL4-Foundation-success)                          | Pending          |                                                                                   |
+
+---
+
+## 🎓 Continued Professional Education (CPE)
+
+| Course Name                              | Completion Date  | Highlights                                                          |
+| ---------------------------------------- | ---------------- | -------------------------------------------------------------------- |
+| The Definitive GRC Analyst Master Class  | 05/18/2023       | Governance, Risk Management, Compliance (GRC) frameworks.            |
 
 
 
-## Continued Professional Education (CPE)
-|     Course    |               Completed               |     Link       |
-|-----------------------|----------------------------------------|----------------|
-|The Definitive GRC Analyst Master Class| 05/18/2023 |
 
-<h1>Hi, I'm Pharns! pronounced: "Founce" 😄 <br/><a href="https://www.linkedin.com/in/pharns/">Drone SME</a>, <a href="https://github.com/Pharns">Cybersecurity Student</a>, <a href="https://youtube.com/@PharnsGenece?si=oKLRWZWFlMvSUvTo">YouTuber</a></h1>
-
+## 🎥 YouTube Channel
+(Include description of content)
 
 
 <h2>📺 Popular YouTube Videos</h2>
