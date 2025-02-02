@@ -19,7 +19,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+| (ISC)2 Certified in Cybersecurity |                xx/xx/xx                |     [Verify](https://www.coursera.org/account/accomplishments/specialization/7PXNLJBZX593)       | 
 | CompTIA A+     |                xx/xx/xx                |     xxx        | 
 | CompTIA Security+     |                xx/xx/xx                |     xxx        | 
 | CompTIA Security+     |                xx/xx/xx                |     xxx        | 
