@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Hi, I'm Phanrns ("Founce") and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi, I'm Pharns ("Founce") and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 
 # Project Overview 
@@ -20,6 +20,13 @@ List our your certifications and/or link to them. Also include the ones you plan
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
 | CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+| CompTIA A+     |                xx/xx/xx                |     xxx        | 
+| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+
+
 
 
 
