@@ -76,8 +76,9 @@ Here are the certifications I’ve earned as part of my cybersecurity journey:
 | ![CompTIA](https://img.shields.io/badge/CompTIA-A%2B-red)                                 | 02/27/2024       | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) |
 | ![CompTIA](https://img.shields.io/badge/CompTIA-Network%2B-orange)                       | 01/07/2025       | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) |
 | ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-yellow)                      | 01/17/2025       | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) |
-| ![CompTIA](https://img.shields.io/badge/CompTIA-CySA%2B-green)                           | Pending          |                                                                                   |
-| ![ITIL4](https://img.shields.io/badge/ITIL4-Foundation-success)                          | Pending          |                                                                                   |
+| ![ITIL4](https://img.shields.io/badge/ITIL4-Foundation-success)                          | Pending          |                           |
+| ![CompTIA](https://img.shields.io/badge/CompTIA-CySA%2B-green)                           | Pending          |                           |
+
 
 ---
 
