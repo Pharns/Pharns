@@ -1,22 +1,24 @@
-## Pharns' Porfolio
+# Pharns' Porfolio
 
-# Portfolio
+## Portfolio
 
 Hi, I'm Pharns ("Founce") and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 
-# Project Overview 
+## Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  [SIEM](https://github.com/iMentorYT/SIEM/tree/main)|
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
+- [Twingate - Zero Trust Network Access](https://github.com/Pharns/Twingate-Lab)
 
-# Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
+- [File Cloud - Hyper-Secure Enterprise File Sharing, Sync, Backup and Remote Access](https://github.com/Pharns/Filecloud-Lab)
 
-|     Certification     |               Completed?               |     Link       |
+  
+## Certifications 
+|     Certification     |               Completed               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
 | (ISC)2 Certified in Cybersecurity | 03/17/2023 | [Verify](https://www.coursera.org/account/accomplishments/specialization/7PXNLJBZX593)| 
 | CompTIA A+     | 02/27/2024| [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0)| 
@@ -28,23 +30,13 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 
 
-
+## Continued Professional Education (CPE)
+|     Course    |               Completed               |     Link       |
+|-----------------------|----------------------------------------|----------------|
+|The Definitive GRC Analyst Master Class| 05/18/2023 |
 
 <h1>Hi, I'm Pharns! pronounced: "Founce" 😄 <br/><a href="https://www.linkedin.com/in/pharns/">Drone SME</a>, <a href="https://github.com/Pharns">Cybersecurity Student</a>, <a href="https://youtube.com/@PharnsGenece?si=oKLRWZWFlMvSUvTo">YouTuber</a></h1>
 
-<h2>📃 Certifications:</h2>
-
-- [(ISC)2 Certified in Cybersecurity (CC) ](https://github.com/Pharns/Pharns/blob/main/Coursera%207PXNLJBZX593.pdf)
-- CompTIA A+ (Pending Oct 2023)
-
-<h2>🎓 Continued Professional Education (CPE):</h2>
-  
-<h2>💻 Cybersecurity Projects:</h2>
-
-- [Twingate - Zero Trust Network Access](https://github.com/Pharns/Twingate-Lab)
-
-- [File Cloud - Hyper-Secure Enterprise File Sharing, Sync, Backup and Remote Access](https://github.com/Pharns/Filecloud-Lab)
- 
 
 
 <h2>📺 Popular YouTube Videos</h2>
