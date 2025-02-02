@@ -9,7 +9,6 @@ This folder contains documentation of my Proxmox-based homelab environment confi
 
 ## Home Lab Topology
 ![Alt text](homelab-setup/screenshots/CNN Network Diagram-Github.jpg)
-homelab-setup/screenshots/CNN Network Diagram-Github.jpg
 
 ## Screenshots
 Screenshots of my homelab environment are stored in the `screenshots/` folder.
