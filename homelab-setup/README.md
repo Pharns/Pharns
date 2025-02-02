@@ -7,5 +7,8 @@ This folder contains documentation of my Proxmox-based homelab environment confi
 - Includes virtual machines running Security Onion, Kali Linux, and other tools.
 - Network segmentation for isolating traffic during penetration testing.
 
+## Home Lab Topology
+Screenshots of my homelab environment are stored in the `screenshots/` folder.
+
 ## Screenshots
 Screenshots of my homelab environment are stored in the `screenshots/` folder.
