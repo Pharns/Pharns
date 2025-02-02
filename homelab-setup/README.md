@@ -8,7 +8,8 @@ This folder contains documentation of my Proxmox-based homelab environment confi
 - Network segmentation for isolating traffic during penetration testing.
 
 ## Home Lab Topology
-![Alt text](path/to/image.png)
+![Alt text](homelab-setup/screenshots/CNN Network Diagram-Github.jpg)
+homelab-setup/screenshots/CNN Network Diagram-Github.jpg
 
 ## Screenshots
 Screenshots of my homelab environment are stored in the `screenshots/` folder.
