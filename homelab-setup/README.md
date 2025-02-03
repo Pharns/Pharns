@@ -96,14 +96,19 @@ Just like in a professional environment, I started with careful planning:
 
 #### Step-by-Step Implementation
 1. **Getting Started**
-   - Downloaded Proxmox VE (always from the official source!)
-   - Verified everything was secure and legitimate
-   - Created my installation media using Balena Etcher
+   - Downloaded Proxmox VE from the official source
+   - Verified SHA256 hash to ensure file integrity
+   - Validated GPG signatures for authenticity
+   - Created installation media using Balena Etcher
 
 2. **BIOS Setup**
-   - Accessed the BIOS (quick tip: DEL key during startup)
-   - Enabled important security features
-   - Set everything up for a smooth installation
+   - To access BIOS: 
+     - Power on the Beelink
+     - Repeatedly press either Delete, F2, or F10 during startup
+   - Once in BIOS:
+     - Enabled critical security features
+     - Modified boot sequence for installation
+     - Saved configuration changes
 
 3. **Installation and Security**
    - Installed Proxmox VE with security in mind
@@ -119,7 +124,7 @@ Just like in a professional environment, I started with careful planning:
 5. **Making It Secure**
    - Updated everything to the latest versions
    - Added extra security measures
-   - Set up regular backups (because better safe than sorry!)
+   - Set up regular backups (better safe than sorry!)
 
 ### What I've Learned
 
