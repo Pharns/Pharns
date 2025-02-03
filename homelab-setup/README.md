@@ -28,9 +28,9 @@ Here is a screenshot of the Proxmox VE interface, illustrating the system's capa
     - **Sockets:** 1
   - **Memory:** Corsair Vengence LPX DDR4 RAM 64GB ([Upgraded](https://amzn.to/3Q0ZPEc))
   - **Storage:**
-    - 500G NVME(Main Drive)
-    - 2TB External SSD
-    - 4TB External HDD
+    - **NVME:** 500GB (Main Drive)
+    - **External SSD:** 2TB
+    - **External HDD:** 4TB
   - **Graphics Support:** Integrated Radeon Graphics, supports 4K FPS
   - **Connectivity:** WiFi 6, Bluetooth 5.2, USB 3.2
   - **Virtualization:** AMD-V
