@@ -1,4 +1,4 @@
-# 🏠 Homelab Setup
+# 🏠 HomeLab Setup
 
 This documentation showcases my Proxmox-based homelab environment—a crucial element of my personal portfolio demonstrating my capabilities in cybersecurity research and testing.
 
