@@ -22,6 +22,32 @@ The network diagram below represents my Proxmox Virtual Environment (PVE). This 
 
 ![Home Lab Network Diagram](https://raw.githubusercontent.com/Pharns/Pharns/main/homelab-setup/screenshots/CNN%20Network%20Diagram-Github.jpg)
 
+
+### 🔒 **Homelab Setup**
+- **Objective:** Build a comprehensive virtualized security lab using Proxmox VE for research, testing, and skill development.
+- **Infrastructure:**
+  - pfSense Firewall with segmented VLANs for security isolation
+  - Zero Trust Network implementation using numerous tools (Tailscale, Twingate, Netbird)
+  - Self-hosted services (VLAN 100) including Whonix, n8n, Nextcloud, and Kasm Workspaces
+  - Dedicated Attack/Security Tools subnet featuring:
+    - Security Onion for network monitoring
+    - The Hive + Cortex for incident response
+    - Nessus for vulnerability scanning
+    - Wazuh for SIEM capabilities
+    - Caldera for adversary emulation
+
+- **Network Segmentation:**
+  - VLAN 10: Metasploit & DVWA testing environment
+  - VLAN 20: Windows environment with Active Directory
+  - VLAN 30: Ubuntu with Docker, Portainer, and bWAPP
+  - VLAN 100: Self-hosted services
+  
+- **Key Features:**
+  - Multi-layered security architecture
+  - Isolated testing environments
+  - Enterprise-grade security tools
+  - Automated workflow capabilities
+
 ## Screenshots
 #### Proxmox Virtual Environment (PVE)
 Screenshot of the Proxmox VE interface, illustrating the system's capacity to host and manage a diverse range of virtual machines effectively.
