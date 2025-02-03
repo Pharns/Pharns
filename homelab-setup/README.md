@@ -17,7 +17,7 @@ This documentation showcases my Proxmox-based homelab environment—a crucial el
 
 ## Home Lab Topology
 
-The network diagram below represents my Proxmox Virtual Environment (PVE). This detailed architecture highlights my ability to design and implement secure and efficient network infrastructures—a critical skill set for cybersecurity roles.
+The network diagram below illustrates the architecture of my homelab's Proxmox Virtual Environment (PVE). This setup serves as a practical learning environment where I'm developing and refining skills in network design, security implementation, and infrastructure management.
 
 
 ![Home Lab Network Diagram](https://raw.githubusercontent.com/Pharns/Pharns/main/homelab-setup/screenshots/CNN%20Network%20Diagram-Github.jpg)
