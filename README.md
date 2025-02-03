@@ -13,6 +13,16 @@ I’m actively seeking opportunities where I can apply my skills, certifications
 
 ---
 
+## 🚀 Current Projects Status
+| Project | Status | Progress | Description |
+|---------|---------|----------|-------------|
+| Drone Security Research | 🟢 Active | 75% | SDR-equipped drone for wireless security testing |
+| Homelab Enhancement | 🟡 In Progress | 60% | Expanding lab capabilities with new security tools |
+| Zero Trust Implementation | 🟢 Active | 85% | Implementing Tailscale, Twingate, and Netbird |
+| CTF Write-ups | 🔵 Ongoing | Updated Weekly | Documenting security challenge solutions |
+| CySA+ Certification | 🟡 In Progress | 40% | Advanced security analyst certification |
+
+---
 ## 🌐 Practical Experience
 
 In addition to professional certifications, I’ve expanded my cybersecurity knowledge through hands-on learning platforms like **TryHackMe**, **TCM Security**, and **Hacker’s Arise**. These platforms have allowed me to apply theoretical concepts in controlled environments, honing my skills with real-world scenarios.
