@@ -76,7 +76,7 @@ Screenshot of the Proxmox VE interface, illustrating the system's capacity to ho
 
 ## My Journey: Building a Virtual Security Lab with Proxmox
 
-I'd love to share one of my favorite projects: setting up a home cybersecurity lab using Proxmox on a Beelink SER5 Mini PC. This project combines my passion for hands-on learning with practical cybersecurity skills—and I've learned a ton along the way!
+I'd love to share one of my favorite projects: setting up a home cybersecurity lab using Proxmox on a Beelink SER5 Mini PC. This project combines my passion for hands-on learning with practical cybersecurity skills—and I've learned a **TON** along the way!
 
 ### Why This Matters
 Before diving into the technical details, let me explain why this project excites me. This lab serves as my personal testing ground where I can safely:
