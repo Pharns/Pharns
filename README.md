@@ -121,6 +121,17 @@ Here are the certifications I’ve earned as part of my cybersecurity journey:
 | OSINT Uncovered  | 07/23/2023 | OSINT Resources & Strategies | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/OSINT%20Uncovered%2020220623-BLAC-z349_98f5de54-3d47-43a8-b09e-84be13e20ad2.pdf "Click to view/download the certificate") |
 
 ---
+<!--
 
 ### 🚀 About Me
 I am a passionate cybersecurity enthusiast focused on building practical solutions in the areas of vulnerability management, penetration testing, and incident response. Let’s connect!
+
+
+# This is a commented-out section
+
+## This heading and the following text will not be visible on GitHub.
+
+Here is some text that I want to hide from the rendered view.
+- Bullet points
+- More text
+-->
