@@ -17,3 +17,17 @@ Below is the network diagram representing my Proxmox Virtual Environment (PVE). 
 #### Proxmox Virtual Environment (PVE)
 Here is a screenshot of the Proxmox VE interface, illustrating the system's capacity to host and manage a diverse range of virtual machines effectively.
 ![Proxmox Environment](https://raw.githubusercontent.com/Pharns/Pharns/main/homelab-setup/screenshots/Proxmox-Environment.png)
+
+## Equipment
+- **Beelink SER5 Mini PC**
+  - **Processor:** AMD Ryzen 7 5700U with Radeon Graphics
+    - **Architecture:** x86_64
+    - **Cores/Threads:** 8 cores, 16 threads
+    - **Base/Max Frequency:** 1.8GHz base, up to 4.372GHz max
+    - **Cache:** L1: 256 KiB, L2: 4 MiB, L3: 8 MiB
+  - **Memory:** 64GB DDR4 RAM
+  - **Storage:** 500GB M.2 2280 SSD
+  - **Graphics Support:** Integrated Radeon Graphics, supports 4K FPS
+  - **Connectivity:** WiFi 6, Bluetooth 5.2, USB 3.2
+  - **Virtualization:** Supports AMD-V
+  - **Use Cases:** Home, Office, Gaming
