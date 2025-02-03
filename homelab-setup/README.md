@@ -11,4 +11,5 @@ This folder contains documentation of my Proxmox-based homelab environment confi
 ![Home Lab Network Diagram](https://raw.githubusercontent.com/Pharns/Pharns/main/homelab-setup/screenshots/CNN%20Network%20Diagram-Github.jpg)
 
 ## Screenshots
-Screenshots of my homelab environment are stored in the `screenshots/` folder.
+Proxmox Virtual Environment (PVE)
+![Home Lab Network Diagram](https://raw.githubusercontent.com/Pharns/Pharns/main/homelab-setup/screenshots/Proxmox-Environment.png.jpg)
