@@ -15,24 +15,31 @@ I’m actively seeking opportunities where I can apply my skills, certifications
 
 ## 🌐 Practical Experience
 
-In addition to professional certifications, I’ve expanded my cybersecurity knowledge through hands-on learning platforms like TryHackMe:
+In addition to professional certifications, I’ve expanded my cybersecurity knowledge through hands-on learning platforms like **TryHackMe**, **TCM Security**, and **Hacker’s Arise**. These platforms have allowed me to apply theoretical concepts in controlled environments, honing my skills with real-world scenarios.
 
 ### Key Achievements:
-- Earned [Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0QAFY5VBMO.pdf).
-- Completed modules in:
-  - Networking Fundamentals
-  - Web Application Security
-  - Linux Fundamentals
-  - Defensive Security
-  - Digital Forensics  
+- Earned [Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0QAFY5VBMO.pdf) from **TryHackMe**.
+- Completed courses on:
+  - **TryHackMe:**
+    - Networking Fundamentals
+    - Web Application Security
+    - Linux Fundamentals
+    - Defensive Security
+    - Digital Forensics
+  - **TCM Security:**
+    - Practical Ethical Hacking
+    - Windows Privilege Escalation
+  - **Hacker’s Arise:**
+    - Malware Analysis Techniques
+    - Exploit Development Basics
+    - Advanced Penetration Testing
 
 ### Skills Developed:
-- Threat Analysis & Incident Response
-- Penetration Testing (Web and Network Security)
-- Linux System Management
-- Packet Analysis & Network Defense
-  
----
+- **Threat Analysis & Incident Response:** Gained foundational knowledge in identifying and responding to security incidents through labs and simulations.
+- **Penetration Testing:** Practiced ethical hacking techniques, including web application security, network testing, and privilege escalation in controlled environments.
+- **Linux System Management:** Developed proficiency with basic Linux commands, file system navigation, and system administration tasks.
+- **Packet Analysis & Network Defense:** Enhanced understanding of network protocols and practiced analyzing traffic for potential threats.
+- **Malware Analysis (Introductory):** Explored basic techniques for identifying malicious behavior and extracting indicators of compromise (IOCs).
 
 ## 📂 Portfolio Structure
 
