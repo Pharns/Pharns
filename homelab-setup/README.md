@@ -1,9 +1,9 @@
-# Homelab Setup
+# 🏠 Homelab Setup
 
 This documentation showcases my Proxmox-based homelab environment—a crucial element of my personal portfolio demonstrating my capabilities in cybersecurity research and testing.
 
 
-## Key Features
+## 💡 Key Features
 - **Advanced Virtualization with Proxmox VE:** Efficiently utilizes Proxmox VE to build and manage a diverse array of virtual machines. This platform enables the agile deployment necessary for running complex simulations and experiments.
 
   
@@ -15,7 +15,7 @@ This documentation showcases my Proxmox-based homelab environment—a crucial el
   
 - **Practical Network Topology Visualization:** The network diagram provides a comprehensive view of the homelab’s architecture, designed to highlight segmentation strategies and secure interconnections best suited for defense-in-depth practices.
 
-## Home Lab Topology
+## 🌐 Home Lab Topology
 
 The network diagram below illustrates the architecture of my homelab's Proxmox Virtual Environment (PVE). This setup serves as a practical learning environment where I'm developing and refining skills in network design, security implementation, and infrastructure management.
 
@@ -23,7 +23,7 @@ The network diagram below illustrates the architecture of my homelab's Proxmox V
 ![Home Lab Network Diagram](https://raw.githubusercontent.com/Pharns/Pharns/main/homelab-setup/screenshots/CNN%20Network%20Diagram-Github.jpg)
 
 
-## 🔒 **Homelab Setup**
+## 🛠️ **Homelab Setup**
 - **Objective:** Build a comprehensive virtualized security lab using Proxmox VE for research, testing, and skill development.
 - **Infrastructure:**
   - pfSense Firewall with segmented VLANs for security isolation
@@ -49,13 +49,13 @@ The network diagram below illustrates the architecture of my homelab's Proxmox V
   - Automated workflow capabilities
 
 
-## Proxmox Virtual Environment (PVE)
+## 💻 Proxmox Virtual Environment (PVE)
 Screenshot of the Proxmox VE interface, illustrating the system's capacity to host and manage a diverse range of virtual machines effectively.
 
 
 ![Proxmox Environment](https://raw.githubusercontent.com/Pharns/Pharns/main/homelab-setup/screenshots/Proxmox-Environment.png)
 
-## Equipment
+## ⚙️ Equipment
 - [**Beelink SER5 Mini PC**](https://amzn.to/42DGjVC)
   - **Processor:** AMD Ryzen 7 5700U with Radeon Graphics
     - **Architecture:** x86_64
@@ -74,27 +74,27 @@ Screenshot of the Proxmox VE interface, illustrating the system's capacity to ho
 
 
 
-## My Journey: Building a Virtual Security Lab with Proxmox
+## 🚀 My Journey: Building a Virtual Security Lab with Proxmox
 
 I'd love to share one of my favorite projects: setting up a home cybersecurity lab using Proxmox on a Beelink SER5 Mini PC. This project combines my passion for hands-on learning with practical cybersecurity skills—and I've learned a **TON** along the way!
 
-### Why This Matters
+### 🎯 Why This Matters
 Before diving into the technical details, let me explain why this project excites me. This lab serves as my personal testing ground where I can safely:
 - Experiment with security tools and configurations
 - Practice incident response scenarios
 - Learn new cybersecurity techniques
 - Test security solutions before implementing them
 
-### The Setup Journey: Making It Happen
+### 🔄 The Setup Journey: Making It Happen
 
-#### Planning Phase
+#### 📋 Planning Phase
 Just like in a professional environment, I started with careful planning:
 - Researched the best hardware for my needs (the Beelink SER5 proved perfect!)
 - Created a detailed checklist to ensure nothing was missed
 - Kept security in mind from the very beginning
 - Documented everything (a habit I learned in my nursing days)
 
-#### Step-by-Step Implementation
+#### 📝 Step-by-Step Implementation
 1. **Getting Started**
    - Downloaded Proxmox VE from the official source
    - Verified SHA256 hash to ensure file integrity
@@ -126,7 +126,7 @@ Just like in a professional environment, I started with careful planning:
    - Added extra security measures
    - Set up regular backups (better safe than sorry!)
 
-## 🎯 Project Impact & Growth
+## 📈 Project Impact & Growth
 
 ### 🧠 Key Learning Outcomes
 - **Infrastructure Management**
@@ -144,7 +144,7 @@ Just like in a professional environment, I started with careful planning:
   - Process documentation
   - Project management skills
 
-### 🚀 Ongoing Improvements
+### ⭐ Ongoing Improvements
 - **Laboratory Enhancement**
   - Integration of advanced security tools
   - Robust backup solution implementation
