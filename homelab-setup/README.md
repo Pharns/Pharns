@@ -46,7 +46,7 @@ Screenshot of the Proxmox VE interface, illustrating the system's capacity to ho
 Let me share how I set up Proxmox on my Beelink SER5 Mini PC—a straightforward and fun process!
 
 ### Step 1: Preparing the USB Stick
-First, I grabbed a USB stick with at least 2GB of space. I visited the [Proxmox website](https://www.proxmox.com/en/downloads) to download the Proxmox VE ISO image. Using a handy tool like Rufus, I created a bootable USB drive from the downloaded ISO.
+First, I grabbed a USB stick with at least 2GB of space. I visited the [Proxmox website](https://www.proxmox.com/en/downloads) to download the Proxmox VE ISO image. Using a handy tool like Balena Etcher, I created a bootable USB drive from the downloaded ISO.
 
 ### Step 2: Booting from the USB
 Once my USB was ready, I plugged it into the Beelink. I restarted the PC and hit `Del` to enter the BIOS settings. Here, I switched the boot order to prioritize the USB stick and saved the changes.
