@@ -4,14 +4,14 @@
 
 Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity professional passionate about safeguarding systems and solving real-world security challenges. With certifications like **CompTIA Security+**, **Network+**, and **(ISC)² Certified in Cybersecurity**, I specialize in **threat detection**, **incident response**, and **vulnerability management**.
 
+I'm currently pursuing my Bachelor's degree in Cybersecurity and Information Assurance (BSCIA) at Western Governors University, with plans to continue into their Master's program. This academic pursuit complements my hands-on experience and industry certifications, demonstrating my commitment to maintaining cutting-edge knowledge in the rapidly evolving cybersecurity landscape.
+
 In my hands-on experience:
-- I’ve built a robust homelab featuring tools like **The Hive**, **Nessus**, and **Security Onion** to simulate real-world cybersecurity scenarios.
-- As a licensed drone pilot and builder, I’m developing a **proof of concept** to demonstrate how drones equipped with SDR (software-defined radio) can exploit vulnerabilities—merging cutting-edge technology with cybersecurity research.
+- I've built a robust homelab featuring tools like **The Hive**, **Nessus**, and **Security Onion** to simulate real-world cybersecurity scenarios.
+- As a licensed drone pilot and builder, I'm developing a **proof of concept** to demonstrate how drones equipped with SDR (software-defined radio) can exploit vulnerabilities—merging cutting-edge technology with cybersecurity research.
 - My penetration testing toolkit includes tools like the **WiFi Pineapple**, **HackRF One**, and **Rubber Ducky**, which I use to explore wireless auditing and exploit testing.
 
-I’m actively seeking opportunities where I can apply my skills, certifications, and passion for cybersecurity to solve emerging threats. Explore my portfolio below to see how I combine creativity, technical expertise, and hands-on experience to make an impact.
-
----
+I'm actively seeking opportunities where I can apply my skills, certifications, and passion for cybersecurity to solve emerging threats. Explore my portfolio below to see how I combine creativity, technical expertise, and hands-on experience to make an impact.---
 
 ## 🚀 Current Projects Status
 | Project | Status | Progress | Description |
