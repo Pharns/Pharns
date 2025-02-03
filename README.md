@@ -2,7 +2,7 @@
 
 > **Cybersecurity Specialist | Threat Hunter | Innovating at the Intersection of Technology and Security**
 
-Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity professional passionate about safeguarding systems and solving real-world security challenges. With certifications like **CompTIA Security+**, **Network+**, and **(ISC)² Certified in Cybersecurity**, I specialize in **threat detection**, **incident response**, and **vulnerability management**.
+Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity professional passionate about safeguarding systems and solving real-world security challenges. With [certifications](#-certifications) like **CompTIA Security+**, **Network+**, and **(ISC)² Certified in Cybersecurity**, I specialize in **threat detection**, **incident response**, and **vulnerability management**.
 
 I'm currently pursuing my Bachelor's degree in Cybersecurity and Information Assurance (BSCIA) at Western Governors University, with plans to continue into their Master's program. This academic pursuit complements my hands-on experience and industry certifications, demonstrating my commitment to maintaining cutting-edge knowledge in the rapidly evolving cybersecurity landscape.
 
