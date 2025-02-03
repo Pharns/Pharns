@@ -19,15 +19,18 @@ Here is a screenshot of the Proxmox VE interface, illustrating the system's capa
 ![Proxmox Environment](https://raw.githubusercontent.com/Pharns/Pharns/main/homelab-setup/screenshots/Proxmox-Environment.png)
 
 ## Equipment
-- **Beelink SER5 Mini PC**
+- [**Beelink SER5 Mini PC**](https://amzn.to/42DGjVC)
   - **Processor:** AMD Ryzen 7 5700U with Radeon Graphics
     - **Architecture:** x86_64
     - **Cores/Threads:** 8 cores, 16 threads
     - **Base/Max Frequency:** 1.8GHz base, up to 4.372GHz max
     - **Cache:** L1: 256 KiB, L2: 4 MiB, L3: 8 MiB
-  - **Memory:** 64GB DDR4 RAM
-  - **Storage:** 500GB M.2 2280 SSD
+    - **Sockets:** 1
+  - **Memory:** Corsair Vengence LPX DDR4 RAM 64GB ([Upgraded](https://amzn.to/3Q0ZPEc))
+  - **Storage:**
+    - 500G NVME(Main Drive)
+    - 2TB External SSD
+    - 4TB External HDD
   - **Graphics Support:** Integrated Radeon Graphics, supports 4K FPS
   - **Connectivity:** WiFi 6, Bluetooth 5.2, USB 3.2
-  - **Virtualization:** Supports AMD-V
-  - **Use Cases:** Home, Office, Gaming
+  - **Virtualization:** AMD-V
