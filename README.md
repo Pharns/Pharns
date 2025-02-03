@@ -133,7 +133,15 @@ Feel free to reach out via:
 - [LinkedIn](https://linkedin.com/in/pharns)
 - [GitHub](https://github.com/pharns)
 
+---
 
+<p align="center">
+Thank you for exploring my cybersecurity portfolio! I'm always open to collaboration and new opportunities.
+</p>
+
+<p align="center">
+<i>Building a more secure digital world, one project at a time.</i>
+</p>
 <!--
 
 ### 🚀 About Me
