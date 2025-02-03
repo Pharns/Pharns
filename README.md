@@ -1,4 +1,5 @@
 ---
+
 # Welcome to Pharns' Cybersecurity Portfolio! 👋
 
 Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity professional with expertise in **threat detection**, **incident response**, and **vulnerability management**. With certifications like **CompTIA Security+**, **Network+**, and **(ISC)² Certified in Cybersecurity**, I apply my skills through a robust **homelab** featuring tools like **The Hive**, **Nessus**, and **Security Onion**.
@@ -6,6 +7,33 @@ Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity profes
 As a **licensed professional drone pilot and builder**, I’m developing a **proof of concept** showcasing how drones equipped with SDR (software-defined radio) can exploit vulnerabilities in computers—merging cutting-edge technology with cybersecurity research. I’m also advancing my skills in **penetration testing** using tools like the **WiFi Pineapple**, **HackRF One**, and **Rubber Ducky** for wireless auditing and exploit testing.
 
 I’m seeking a role where I can apply my skills, certifications, and passion for cybersecurity to solve emerging threats. Explore my portfolio below to see how I combine creativity and technical expertise to make a meaningful impact.
+
+---
+
+## 🌐 Practical Experience
+
+In addition to my structured certifications, I have expanded my cybersecurity skills through practical challenges on TryHackMe. This hands-on learning platform has allowed me to deepen my understanding in several key areas.
+
+### TryHackMe Achievements
+- **Certificate of Completion:** [View TryHackMe Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0QAFY5VBMO.pdf)
+- **Key Modules Completed:**
+  - **Networking Fundamentals**: Gained a comprehensive understanding of computer networking and the OSI model. [Networking Nerd]
+  - **How the Web Works**: Explored the web's infrastructure and how web protocols operate. [Webbed, World Wide Web]
+  - **Linux Fundamentals**: Developed proficiency in Linux through hands-on practice of essential commands and SSH authentication. [cat linux.txt]
+  - **Web Application Security**: Learned about common web vulnerabilities and practiced ethical hacking in a controlled environment.
+  - **Defensive Security**: Introduced to threat intelligence, SOC functions, and digital forensics. [Defensive Security Intro]
+  - **Operating System Security**: Focused on Linux security and SSH authentication best practices.
+  - **Network Security**: Understood attack methodologies and practiced defending networked systems.
+  - **Digital Forensics**: Introduction to forensic analysis techniques and processes in cybersecurity. [Intro to Digital Forensics]
+
+- **Skills Developed:**
+  - **Threat Analysis & Incident Response**: Sharpened skills in identifying and responding to threats.
+  - **Penetration Testing**: Improved ethical hacking skills, including web application and network security testing.
+  - **Networking**: Deepened understanding of protocols, packet analysis, and network security strategies.
+  - **Linux System Management**: Enhanced Linux command-line skills and system operations knowledge.
+  - **Web Technologies**: Better understanding of HTTP, DNS, and how websites function at a technical level.
+
+This experience has significantly contributed to my practical knowledge and my ability to apply theoretical concepts to real-world scenarios, making me well-prepared for tackling cybersecurity challenges.
 
 ---
 
@@ -66,7 +94,6 @@ Here are some selected hands-on projects that showcase my practical skills in cy
 
 ---
 
-
 ## 📜 Certifications
 
 Here are the certifications I’ve earned as part of my cybersecurity journey:
@@ -81,8 +108,9 @@ Here are the certifications I’ve earned as part of my cybersecurity journey:
 | ![CompTIA](https://img.shields.io/badge/CompTIA-IT%20Operations%20Specialist%20(CIOS)-lightgrey) | 01/17/2025  | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0)  |
 | ![ITIL4](https://img.shields.io/badge/ITIL4-Foundation-success)                          | Pending          |                           |
 | ![CompTIA](https://img.shields.io/badge/CompTIA-CySA%2B-green)                           | Pending          |                           |
+
 ---
----
+
 ## 🎓 Continued Professional Education (CPE)
 
 | Course Name                              | Completion Date  | Highlights                                                          | Certificate |
@@ -91,49 +119,8 @@ Here are the certifications I’ve earned as part of my cybersecurity journey:
 | The Definitive GRC Analyst Master Class  | 05/18/2023       | Governance, Risk Management, Compliance (GRC) frameworks.            | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/Badge_cfacfdc483074553b238d91bfec919a0.pdf "Click to view/download the certificate") |
 | SOC Core Skills  | 06/15/2023 | Intro to Windows, Linux, TCP, SOC Basics & Fundamentals | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/SOC%20Core%20SkillsBadge_5186c1bae05840ca989d62ba4d58b4fd.pdf "Click to view/download the certificate") |
 | OSINT Uncovered  | 07/23/2023 | OSINT Resources & Strategies | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/OSINT%20Uncovered%2020220623-BLAC-z349_98f5de54-3d47-43a8-b09e-84be13e20ad2.pdf "Click to view/download the certificate") |
+
 ---
 
 ### 🚀 About Me
 I am a passionate cybersecurity enthusiast focused on building practical solutions in the areas of vulnerability management, penetration testing, and incident response. Let’s connect!
-
----
-
-
-
-
-<!--
-## 🎥 YouTube Channel
-(Include description of content)
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-[Oceanside Harbor Aerial Dance (Drone Video) ](https://youtu.be/xxSVpFxjK00?si=F45V31UJdrDYh6Xu)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/pharns
-[youtube]: https://www.youtube.com/pharnsgenece
-[instagram]: https://www.instagram.com/pharns/
-[linkedin]:  https://www.linkedin.com/in/pharns/
-
-
-<!--
-**Pharns/Pharns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
