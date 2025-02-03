@@ -40,3 +40,27 @@ Screenshot of the Proxmox VE interface, illustrating the system's capacity to ho
   - **Graphics Support:** Integrated Radeon Graphics, supports 4K FPS
   - **Connectivity:** WiFi 6, Bluetooth 5.2, USB 3.2
   - **Virtualization:** AMD-V
+ 
+## Installing Proxmox on the Beelink
+
+Let me share how I set up Proxmox on my Beelink SER5 Mini PC—a straightforward and fun process!
+
+### Step 1: Preparing the USB Stick
+First, I grabbed a USB stick with at least 2GB of space. I visited the [Proxmox website](https://www.proxmox.com/en/downloads) to download the Proxmox VE ISO image. Using a handy tool like Rufus, I created a bootable USB drive from the downloaded ISO.
+
+### Step 2: Booting from the USB
+Once my USB was ready, I plugged it into the Beelink. I restarted the PC and hit `Del` to enter the BIOS settings. Here, I switched the boot order to prioritize the USB stick and saved the changes.
+
+### Step 3: Installing Proxmox
+As the PC booted up, the Proxmox installer appeared. I selected "Install Proxmox VE" and agreed to the usual license agreement. I chose the NVMe drive for installation and set up my country, time zone, and keyboard layout.
+
+### Step 4: Configuring the Network
+Next, I configured the network settings. I went with the default DHCP option, which was easy. I also set a strong password and entered my email for any necessary notifications.
+
+### Step 5: Completing the Installation
+With everything set, I clicked “Install” and let Proxmox do its thing. Once the installation finished, I removed the USB stick and rebooted the system.
+
+### Step 6: Accessing Proxmox
+Finally, on another device, I opened a web browser and navigated to `https://<my-proxmox-ip>:8006`. I logged in using the credentials I had set, and just like that, my Beelink was a fully functioning Proxmox powerhouse!
+
+This setup opened up a world of virtual machine possibilities, and I'm excited to explore more. If you're considering this setup, I hope my experience gives you the confidence to dive in!
