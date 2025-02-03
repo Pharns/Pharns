@@ -1,40 +1,37 @@
----
-
 # Welcome to Pharns' Cybersecurity Portfolio! 👋
 
-Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity professional with expertise in **threat detection**, **incident response**, and **vulnerability management**. With certifications like **CompTIA Security+**, **Network+**, and **(ISC)² Certified in Cybersecurity**, I apply my skills through a robust **homelab** featuring tools like **The Hive**, **Nessus**, and **Security Onion**.
+> **Cybersecurity Specialist | Threat Hunter | Innovating at the Intersection of Technology and Security**
 
-As a **licensed professional drone pilot and builder**, I’m developing a **proof of concept** showcasing how drones equipped with SDR (software-defined radio) can exploit vulnerabilities in computers—merging cutting-edge technology with cybersecurity research. I’m also advancing my skills in **penetration testing** using tools like the **WiFi Pineapple**, **HackRF One**, and **Rubber Ducky** for wireless auditing and exploit testing.
+Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity professional passionate about safeguarding systems and solving real-world security challenges. With certifications like **CompTIA Security+**, **Network+**, and **(ISC)² Certified in Cybersecurity**, I specialize in **threat detection**, **incident response**, and **vulnerability management**.
 
-I’m seeking a role where I can apply my skills, certifications, and passion for cybersecurity to solve emerging threats. Explore my portfolio below to see how I combine creativity and technical expertise to make a meaningful impact.
+In my hands-on experience:
+- I’ve built a robust homelab featuring tools like **The Hive**, **Nessus**, and **Security Onion** to simulate real-world cybersecurity scenarios.
+- As a licensed drone pilot and builder, I’m developing a **proof of concept** to demonstrate how drones equipped with SDR (software-defined radio) can exploit vulnerabilities—merging cutting-edge technology with cybersecurity research.
+- My penetration testing toolkit includes tools like the **WiFi Pineapple**, **HackRF One**, and **Rubber Ducky**, which I use to explore wireless auditing and exploit testing.
+
+I’m actively seeking opportunities where I can apply my skills, certifications, and passion for cybersecurity to solve emerging threats. Explore my portfolio below to see how I combine creativity, technical expertise, and hands-on experience to make an impact.
 
 ---
 
 ## 🌐 Practical Experience
 
-In addition to my structured certifications, I have expanded my cybersecurity skills through practical challenges on TryHackMe. This hands-on learning platform has allowed me to deepen my understanding in several key areas.
+In addition to professional certifications, I’ve expanded my cybersecurity knowledge through hands-on learning platforms like TryHackMe:
 
-### TryHackMe Achievements
-- **Certificate of Completion:** [View TryHackMe Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0QAFY5VBMO.pdf)
-- **Key Modules Completed:**
-  - **Networking Fundamentals**: Gained a comprehensive understanding of computer networking and the OSI model. [Networking Nerd]
-  - **How the Web Works**: Explored the web's infrastructure and how web protocols operate. [Webbed, World Wide Web]
-  - **Linux Fundamentals**: Developed proficiency in Linux through hands-on practice of essential commands and SSH authentication. [cat linux.txt]
-  - **Web Application Security**: Learned about common web vulnerabilities and practiced ethical hacking in a controlled environment.
-  - **Defensive Security**: Introduced to threat intelligence, SOC functions, and digital forensics. [Defensive Security Intro]
-  - **Operating System Security**: Focused on Linux security and SSH authentication best practices.
-  - **Network Security**: Understood attack methodologies and practiced defending networked systems.
-  - **Digital Forensics**: Introduction to forensic analysis techniques and processes in cybersecurity. [Intro to Digital Forensics]
+### Key Achievements:
+- Earned [Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0QAFY5VBMO.pdf).
+- Completed modules in:
+  - Networking Fundamentals
+  - Web Application Security
+  - Linux Fundamentals
+  - Defensive Security
+  - Digital Forensics  
 
-- **Skills Developed:**
-  - **Threat Analysis & Incident Response**: Sharpened skills in identifying and responding to threats.
-  - **Penetration Testing**: Improved ethical hacking skills, including web application and network security testing.
-  - **Networking**: Deepened understanding of protocols, packet analysis, and network security strategies.
-  - **Linux System Management**: Enhanced Linux command-line skills and system operations knowledge.
-  - **Web Technologies**: Better understanding of HTTP, DNS, and how websites function at a technical level.
-
-This experience has significantly contributed to my practical knowledge and my ability to apply theoretical concepts to real-world scenarios, making me well-prepared for tackling cybersecurity challenges.
-
+### Skills Developed:
+- Threat Analysis & Incident Response
+- Penetration Testing (Web and Network Security)
+- Linux System Management
+- Packet Analysis & Network Defense
+  
 ---
 
 ## 📂 Portfolio Structure
@@ -121,6 +118,13 @@ Here are the certifications I’ve earned as part of my cybersecurity journey:
 | OSINT Uncovered  | 07/23/2023 | OSINT Resources & Strategies | [View Certificate](https://raw.githubusercontent.com/Pharns/Pharns/main/certificates/OSINT%20Uncovered%2020220623-BLAC-z349_98f5de54-3d47-43a8-b09e-84be13e20ad2.pdf "Click to view/download the certificate") |
 
 ---
+
+## 🤝 Let’s Connect!
+Feel free to reach out via:
+- [LinkedIn](https://linkedin.com/in/pharns)
+- [GitHub](https://github.com/pharns)
+
+
 <!--
 
 ### 🚀 About Me
