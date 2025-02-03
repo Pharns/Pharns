@@ -41,6 +41,8 @@ In addition to professional certifications, I’ve expanded my cybersecurity kno
 - **Packet Analysis & Network Defense:** Enhanced understanding of network protocols and practiced analyzing traffic for potential threats.
 - **Malware Analysis (Introductory):** Explored basic techniques for identifying malicious behavior and extracting indicators of compromise (IOCs).
 
+---
+
 ## 📂 Portfolio Structure
 
 Explore the sections below to learn more about my hands-on projects and cybersecurity journey:
