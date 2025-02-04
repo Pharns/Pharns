@@ -9,7 +9,7 @@ I'm currently pursuing my Bachelor's degree in Cybersecurity and Information Ass
 In my hands-on experience:
 - I've built a robust homelab featuring tools like **The Hive**, **Nessus**, and **Security Onion** to simulate real-world cybersecurity scenarios.
 - As a licensed drone pilot and builder, I'm developing a **proof of concept** to demonstrate how drones equipped with SDR (software-defined radio) can exploit vulnerabilities—merging cutting-edge technology with cybersecurity research.
-- My penetration testing toolkit includes tools like the **WiFi Pineapple**, **HackRF One**, and **Rubber Ducky**, which I use to explore wireless auditing and exploit testing.
+- My penetration testing toolkit includes tools like the **WiFi Pineapple**, **HackRF One**, **Flipper Zero**, and **Rubber Ducky**, which I use to explore wireless auditing, RFID/NFC analysis, and exploit testing.
 
 I'm actively seeking opportunities where I can apply my skills, certifications, and passion for cybersecurity to solve emerging threats. Explore my portfolio below to see how I combine creativity, technical expertise, and hands-on experience to make an impact.---
 
