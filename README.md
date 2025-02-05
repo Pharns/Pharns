@@ -2,16 +2,16 @@
 
 > **Cybersecurity Specialist | Threat Hunter | Innovating at the Intersection of Technology and Security**
 
-Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity professional passionate about safeguarding systems and solving real-world security challenges. With [certifications](#-certifications) like **CompTIA Security+**, **Network+**, and **(ISC)² Certified in Cybersecurity**, I specialize in **threat detection**, **incident response**, and **vulnerability management**.
+Hi there! I'm **Pharns** (pronounced "Founce"), a certified cybersecurity professional passionate about safeguarding systems and solving real-world security challenges. With [certifications](#-certifications) like **CompTIA Security+**, **CompTIA Network+**, and **(ISC)² Certified in Cybersecurity**, I specialize in **threat detection**, **incident response**, and **vulnerability management**.
 
-I'm currently pursuing my Bachelor's degree in Cybersecurity and Information Assurance (BSCIA) at Western Governors University, with plans to continue into their Master's program. This academic pursuit complements my hands-on experience and industry certifications, demonstrating my commitment to maintaining cutting-edge knowledge in the rapidly evolving cybersecurity landscape.
+I'm currently pursuing my Bachelor's degree in Cybersecurity and Information Assurance (BSCIA) at Western Governors University (WGU), with plans to continue into the Master's program. This academic pursuit complements my hands-on experience and industry certifications, demonstrating my commitment to maintaining cutting-edge knowledge in the rapidly evolving cybersecurity landscape.
 
-In my hands-on experience:
-- I've built a robust homelab featuring tools like **The Hive**, **Nessus**, and **Security Onion** to simulate real-world cybersecurity scenarios.
-- As a licensed drone pilot and builder, I'm developing a **proof of concept** to demonstrate how drones equipped with SDR (software-defined radio) can exploit vulnerabilities—merging cutting-edge technology with cybersecurity research.
-- My penetration testing toolkit includes tools like the **WiFi Pineapple**, **HackRF One**, **Flipper Zero**, and **Rubber Ducky**, which I use to explore wireless auditing, RFID/NFC analysis, and exploit testing.
-
-I'm actively seeking opportunities where I can apply my skills, certifications, and passion for cybersecurity to solve emerging threats. Explore my portfolio below to see how I combine creativity, technical expertise, and hands-on experience to make an impact.---
+Experience:
+- Devloped a homelab featuring tools such as **The Hive**, **Nessus**, and **Security Onion** to simulate real-world cybersecurity scenarios.
+- Licensed drone pilot and builder. My **proof of concept** merges cutting-edge technology and cybersecurity research. It demonstrates how drones equipped with Software-Defined Radio (SDR) can exploit vulnerabilities.
+- My penetration testing toolkit includes the **WiFi Pineapple**, **HackRF One**, **Flipper Zero**, and **Rubber Ducky**, which I use to explore wireless auditing, RFID/NFC analysis, and exploit testing.
+  
+**Career Goal** -- seeking a position/role/opportunity that utilizes my skills, technical expertise, experience, and professional [certifications](#-certifications) while fulfilling my passion for solving ongoing cybersecurity threats.  
 
 ## 🚀 Current Projects Status
 | Project | Status | Progress | Description |
@@ -29,7 +29,7 @@ I'm actively seeking opportunities where I can apply my skills, certifications, 
 ---
 ## 🌐 Practical Experience
 
-In addition to professional certifications, I’ve expanded my cybersecurity knowledge through hands-on learning platforms like **TryHackMe**, **TCM Security**, and **Hacker’s Arise**. These platforms have allowed me to apply theoretical concepts in controlled environments, honing my skills with real-world scenarios.
+In addition to professional certifications, I’ve expanded my cybersecurity knowledge through hands-on learning platforms such as **TryHackMe**, **TCM Security**, and **Hacker’s Arise**. These platforms allow me to apply theoretical concepts in controlled environments, honing my skills with real-world scenarios.
 
 ### Key Achievements:
 - Earned [Certificate of Completion](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0QAFY5VBMO.pdf) from **TryHackMe**.
