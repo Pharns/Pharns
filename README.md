@@ -19,9 +19,8 @@ Experience:
 | Drone Security Research | 🟢 Active | 75% | SDR-equipped drone for wireless security testing |
 | Homelab Enhancement | 🟡 In Progress | 60% | Expanding lab capabilities with new security tools |
 | Zero Trust Implementation | 🟢 Active | 85% | Implementing Tailscale, Twingate, and Netbird |
-| ISC2 SSCP | 🟡 In Progress | 30% | Systems Security certification focused on operational IT security |
 | CySA+ Certification | 🟡 In Progress | 10% | Threat detection and security analytics certification  |
-| CTF Write-ups | 🔵 Ongoing | Updated Weekly | Documenting security challenge solutions |
+| CTF Write-ups | 🔵 Ongoing | Updated Periodically | Documenting security challenge solutions |
 
 
 
@@ -126,9 +125,9 @@ Here are the certifications I've earned as part of my cybersecurity journey:
 | ![CompTIA](https://img.shields.io/badge/CompTIA-Secure%20Infrastructure%20Specialist%20(CSIS)-purple) | 01/17/2025 | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0) |
 | ![CompTIA](https://img.shields.io/badge/CompTIA-IT%20Operations%20Specialist%20(CIOS)-lightgrey) | 01/17/2025  | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0)  |
 | ![ITIL4](https://img.shields.io/badge/ITIL4-Foundation-success)                          |02/07/2025 | [Verify](https://github.com/Pharns/Pharns/raw/main/certificates/e-cert.pdf)  |
+| ![ISC2](https://img.shields.io/badge/ISC²-SSCP%20Associate-lightgrey?logo=isc2) | 08/21/2025 |  |
 
 <!--
-| ![ISC2](https://img.shields.io/badge/ISC²-SSCP%20Associate-lightgrey?logo=isc2) | Pending |  |
 | ![CompTIA](https://img.shields.io/badge/CompTIA-CySA%2B-green)                           | Pending          |                           |
 -->
 
