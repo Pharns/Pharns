@@ -68,7 +68,7 @@ Explore the sections below to learn more about my hands-on projects and learning
 
 ### 🐍 Python
 - [100 Days of Python](https://pharns.github.io/python-learning/100%20Days%20of%20Coding/)  
-- [Python Projects](https://pharns.github.io/python-learning/projects/)  
+- [Python Projects](https://github.com/Pharns/python-learning/tree/main/Projects)  
 
 ---
 
