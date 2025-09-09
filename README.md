@@ -19,7 +19,7 @@ Experience:
 | Drone Security Research | 🟢 Active | 75% | SDR-equipped drone for wireless security testing |
 | Homelab Enhancement | 🟡 In Progress | 60% | Expanding lab capabilities with new security tools |
 | Zero Trust Implementation | 🟢 Active | 85% | Implementing Tailscale, Twingate, and Netbird |
-| CySA+ Certification | 🟡 In Progress | 10% | Threat detection and security analytics certification  |
+| CySA+ Certification | 🟡 In Progress | 30% | Threat detection and security analytics certification  |
 | CTF Write-ups | 🔵 Ongoing | Updated Periodically | Documenting security challenge solutions |
 
 
