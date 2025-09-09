@@ -126,7 +126,7 @@ Here are the certifications I've earned as part of my cybersecurity journey:
 | ![CompTIA](https://img.shields.io/badge/CompTIA-IT%20Operations%20Specialist%20(CIOS)-lightgrey) | 01/17/2025  | [Verify](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=CJW653B2EFE11XS0)  |
 | ![ITIL4](https://img.shields.io/badge/ITIL4-Foundation-success)                          |02/07/2025 | [Verify](https://github.com/Pharns/Pharns/raw/main/certificates/e-cert.pdf)  |
 | ![ISC2](https://img.shields.io/badge/(ISC)%C2%B2-SSCP%20Associate-blue) | 08/21/2025 | [Verify](https://www.credly.com/badges/839bb1ce-ee46-44d9-955b-fb3ca9957b54/public_url) |
-
+| ![LPI](https://img.shields.io/badge/LPI-Linux%20Essentials-green) | 09/09/2025 | [Verify](https://cs.lpi.org/caf/Xamman/certification) |
 
 <!--
 | ![CompTIA](https://img.shields.io/badge/CompTIA-CySA%2B-green)                           | Pending          |                           |
