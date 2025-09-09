@@ -57,13 +57,18 @@ In addition to professional certifications, I’ve expanded my cybersecurity kno
 
 ## 📂 Portfolio Structure
 
-Explore the sections below to learn more about my hands-on projects and cybersecurity journey:
+Explore the sections below to learn more about my hands-on projects and learning journey:
 
+### 🛡 Cybersecurity
 - [🔒 Homelab Setup](homelab-setup/)  
 - [🔍 Vulnerability Assessment](vulnerability-assessment/)  
 - [🛡 Incident Response](incident-response/)  
 - [💻 Penetration Testing](penetration-testing/)  
 - [📝 Blog Write-Ups](blog-writeups/)  
+
+### 🐍 Python
+- [100 Days of Python](https://pharns.github.io/python-learning/100%20Days%20of%20Coding/)  
+- [Python Projects](https://pharns.github.io/python-learning/projects/)  
 
 ---
 
