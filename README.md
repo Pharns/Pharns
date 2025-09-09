@@ -72,7 +72,7 @@ Explore the sections below to learn more about my hands-on projects and learning
 
 ---
 
-## 📂 Project Portfolio
+## 📂 Cybersecurity Portfolio
 Here are some selected hands-on projects that showcase my practical skills in cybersecurity:
 
 |     Project     |                 Skills                |     Tools       |      Link       |
@@ -84,6 +84,21 @@ Here are some selected hands-on projects that showcase my practical skills in cy
 | **Blog Write-Ups** | CTF Challenges, Methodologies        | Various Tools   | [View Write-Ups](blog-writeups/) |
 
 ---
+
+## 📂 Python Portfolio
+In addition to cybersecurity, I’m building a portfolio of Python projects through **WGU’s D335 course** and the **100 Days of Python Pro Bootcamp**.  
+These projects highlight how I use Python for automation, data analysis, and security tooling.
+
+| Project               | Skills/Focus              | Tools/Concepts         | Link |
+|------------------------|---------------------------|------------------------|------|
+| **Day 01 – Hello World** | GitHub CI integration, Python basics | print(), GitHub Actions | [View Project](https://pharns.github.io/python-learning/100%20Days%20of%20Coding/day01/) |
+| **Password Generator (100 Days)**  | Security scripting, automation | random, string, functions | [View Project](https://pharns.github.io/python-learning/100%20Days%20of%20Coding/day05/) |
+| **Data Visualization (Projects)** | Analysis, reporting | pandas, matplotlib | [View Project](https://pharns.github.io/python-learning/projects/data-viz/) |
+
+*Projects are sourced from the **100 Days of Python Bootcamp**, **WGU coursework**, or my **independent Projects hub**.*
+
+---
+
 
 ## 🌟 Featured Projects Explained
 
