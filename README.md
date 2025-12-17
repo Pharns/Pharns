@@ -23,12 +23,15 @@ I build audit-ready control frameworks, evidence pipelines, and compliance autom
 
 ## AAM Cybersecurity Specialization
 
-**Advanced Air Mobility (AAM)** — drones, urban air mobility, unmanned systems — requires security practitioners who understand both cyber and physical domains. I bring:
+**I don't just secure drones — I've designed, built, and fielded UAV systems.**
+
+Advanced Air Mobility (AAM) security requires practitioners who understand the engineering, not just the vulnerabilities. I bring hands-on experience across the full lifecycle:
 
 | Capability | Evidence |
 |------------|----------|
-| **UAV Patents** | Granted patents in payload and delivery systems |
-| **RF Threat Detection** | TraceLock™ ADS-B integration for drone surveillance detection |
+| **UAV Engineering** | Designed, built, and fielded operational UAV systems |
+| **Granted Patents** | USPTO patents in UAV payload and delivery architectures |
+| **RF Threat Detection** | TraceLock™ with ADS-B integration for drone surveillance detection |
 | **Aviation Credentials** | FAA Part 107 certified drone pilot |
 | **SDR/Wireless Security** | HackRF, RTL-SDR, Kismet — spectrum analysis and signal intelligence |
 | **Consulting Practice** | AAM Cyber, LLC — cyber-physical security services |
