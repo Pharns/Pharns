@@ -1,8 +1,8 @@
 # Pharns Genece
 
-**GRC Engineer & Cloud Security Specialist**
+**GRC Engineer · Cloud Security · Advanced Air Mobility (AAM) Cybersecurity**
 
-I build audit-ready control frameworks, evidence pipelines, and compliance automation — then implement the technical controls, not just document them. AI-augmented delivery at 10× capacity.
+I build audit-ready control frameworks, evidence pipelines, and compliance automation — then implement the technical controls, not just document them. Rare hybrid: GRC discipline meets RF/aviation security and cyber-physical systems expertise. AI-augmented delivery at 10× capacity.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.pharns.com-blue?style=flat-square)](https://portfolio.pharns.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pharns-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/pharns)
@@ -21,6 +21,23 @@ I build audit-ready control frameworks, evidence pipelines, and compliance autom
 
 ---
 
+## AAM Cybersecurity Specialization
+
+**Advanced Air Mobility (AAM)** — drones, urban air mobility, unmanned systems — requires security practitioners who understand both cyber and physical domains. I bring:
+
+| Capability | Evidence |
+|------------|----------|
+| **UAV Patents** | Granted patents in payload and delivery systems |
+| **RF Threat Detection** | TraceLock™ ADS-B integration for drone surveillance detection |
+| **Aviation Credentials** | FAA Part 107 certified drone pilot |
+| **SDR/Wireless Security** | HackRF, RTL-SDR, Kismet — spectrum analysis and signal intelligence |
+| **Consulting Practice** | AAM Cyber, LLC — cyber-physical security services |
+| **Military Aviation** | USAF aeromedical operations background |
+
+*Targeting emerging roles: UAV Security Engineer · Aviation Cybersecurity · Drone Program Security · Cyber-Physical Systems*
+
+---
+
 ## Technical Focus
 
 ```
@@ -29,6 +46,7 @@ Cloud Security      → AWS IAM · S3 Security · GuardDuty · CloudTrail · Pol
 Detection           → Security Onion · TheHive/Cortex · SIEM Rules · Alert Tuning
 Automation          → Python · n8n · Multi-agent LLM workflows · Evidence pipelines
 RF/Wireless         → RTL-SDR · HackRF · Kismet · Bluetooth/BLE · ADS-B
+AAM/Aviation        → UAV Security · ADS-B · Drone Detection · Cyber-Physical Systems
 ```
 
 ---
@@ -86,4 +104,4 @@ Most GRC professionals write policies and manage spreadsheets. I architect and b
 
 ---
 
-<sub>*Targeting: GRC Engineer · Cloud Security Engineer · Security Controls Implementation · Detection Engineering*</sub>
+<sub>*Targeting: GRC Engineer · Cloud Security Engineer · AAM/UAV Security · Detection Engineering · Cyber-Physical Systems*</sub>
