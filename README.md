@@ -97,6 +97,10 @@ Most GRC professionals write policies and manage spreadsheets. I architect and b
 - **Detection engineering** — Author SIEM rules, tune false positives, write playbooks
 - **AI-augmented delivery** — 10× velocity with human review
 
+> *"Pharns delivered a complete compliance package with documentation quality that rivals consultants with twice his experience. His ability to implement technical controls while maintaining audit-ready evidence is rare."*
+>
+> — Security stakeholder, client engagement via AAM Cyber, LLC
+
 ---
 
 ## Let's Connect
