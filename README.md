@@ -65,7 +65,7 @@ AAM/Aviation        → UAV Security · ADS-B · Drone Detection · Cyber-Physic
 | ISC² CC | ✅ Active |
 | ITIL 4 Foundation | ✅ Active |
 | LPI Linux Essentials | ✅ Active |
-| AWS Cloud Practitioner | Dec 2025 |
+| AWS Cloud Practitioner | Q1 2026 |
 | CompTIA CySA+ | Dec 2025 |
 | CompTIA PenTest+ | Dec 2025 |
 | ISC² CCSP | Q1 2026 |
