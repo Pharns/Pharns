@@ -4,6 +4,8 @@
 
 I build audit-ready control frameworks, evidence pipelines, and compliance automation — then implement the technical controls, not just document them. Rare hybrid: GRC discipline meets RF/aviation security and cyber-physical systems expertise. AI-augmented delivery at 10× capacity.
 
+**Trust signals:** USAF Veteran (service-disabled) · USPTO Patent Holder · Security+ · B.S. Cybersecurity (Dec 2025)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.pharns.com-blue?style=flat-square)](https://portfolio.pharns.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pharns-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/pharns)
 
@@ -11,11 +13,13 @@ I build audit-ready control frameworks, evidence pipelines, and compliance autom
 
 ## What I Build
 
-**TraceLock™** *(Patent Pending)* — Multi-domain RF threat detection platform monitoring Wi-Fi, Bluetooth, SDR, GPS, and ADS-B simultaneously. 8+ Python modules, 52 shell scripts, security-hardened architecture.
+**TraceLock™** *(Patent Pending)* — Multi-domain RF threat detection platform monitoring Wi-Fi, Bluetooth, SDR, GPS, and ADS-B simultaneously. 25 Python modules, 81 shell scripts, ~12,500 LOC with security-hardened architecture. WGU BSCIA Capstone.
 
-**GIAP™** — AI-powered governance intake platform with consent management, retention policies, and NIST-aligned control mapping.
+**AgenticOS** — Deterministic AI agent orchestration framework with explainable routing, structured logging, and audit-grade execution. 6,361 lines of Python across 5 core scripts, 72 health checks, 4 provider integrations. [View on GitHub](https://github.com/Pharns/AgenticOS)
 
-**AWS Cloud Control Pack** — S3 default-deny storage, GuardDuty findings export, scoped IAM roles with CIS/NIST mapping.
+**GIAP™** *(Infrastructure Live)* — AI-powered governance intake platform. Nextcloud + n8n + SuiteCRM on self-hosted Proxmox VMs. RBAC, retention policies, and workflow automation in progress.
+
+**AWS Cloud Control Pack** *(In Progress)* — S3 default-deny storage, GuardDuty findings export, scoped IAM roles with CIS/NIST mapping. Implementation Q1 2026.
 
 **PCI-DSS Windows 11 Hardening** — Complete endpoint hardening with GPO, firewall rules, BitLocker, and audit-ready evidence pack delivered in <48 hours.
 
@@ -56,18 +60,22 @@ AAM/Aviation        → UAV Security · ADS-B · Drone Detection · Cyber-Physic
 
 ## Credentials
 
+**10 Active Certifications:** Security+, Network+, A+, ITIL4, ISC² CC, SSCP (Assoc.), LPI, Project+, CSIS, CIOS
+
 | Certification | Status |
 |---------------|--------|
 | B.S. Cybersecurity & Information Assurance (WGU) | Dec 2025 |
 | CompTIA Security+ | ✅ Active |
 | CompTIA Network+ | ✅ Active |
+| CompTIA A+ | ✅ Active |
 | ISC² SSCP (Associate) | ✅ Active |
 | ISC² CC | ✅ Active |
 | ITIL 4 Foundation | ✅ Active |
 | LPI Linux Essentials | ✅ Active |
-| AWS Cloud Practitioner | Q1 2026 |
+| CompTIA Project+ | ✅ Active |
 | CompTIA CySA+ | Dec 2025 |
 | CompTIA PenTest+ | Dec 2025 |
+| AWS Cloud Practitioner | Q1 2026 |
 | ISC² CCSP | Q1 2026 |
 
 **Licenses:** FAA Part 107 (Drone Pilot) · HAM Radio · GMRS
@@ -81,9 +89,11 @@ AAM/Aviation        → UAV Security · ADS-B · Drone Detection · Cyber-Physic
 | Project | Status | Description |
 |---------|--------|-------------|
 | [TraceLock™](https://github.com/Pharns/Tracelock-SSD) | Patent Pending | RF surveillance detection — WGU capstone |
+| [AgenticOS](https://github.com/Pharns/AgenticOS) | Released | Deterministic AI agent orchestration |
 | [Portfolio](https://portfolio.pharns.com) | Live | GRC engineering portfolio site |
+| GIAP™ | Infrastructure Live | Governance intake platform on Proxmox |
+| AWS Control Pack | In Progress | Cloud security baseline — Q1 2026 |
 | Detection Lab | Active | Security Onion + TheHive/Cortex |
-| CareerOS | Active | AI-augmented career management system |
 
 ---
 
@@ -91,7 +101,7 @@ AAM/Aviation        → UAV Security · ADS-B · Drone Detection · Cyber-Physic
 
 Most GRC professionals write policies and manage spreadsheets. I architect and build the technical systems that satisfy those controls:
 
-- **Cloud governance** — Deploy production-ready AWS baselines in hours
+- **Cloud governance** — Designing AWS baselines with CIS/NIST mapping
 - **Endpoint compliance** — Deliver hardened configs with complete evidence packs
 - **Compliance automation** — Build intake workflows, not just document them
 - **Detection engineering** — Author SIEM rules, tune false positives, write playbooks
