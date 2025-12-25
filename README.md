@@ -4,7 +4,7 @@
 
 I build audit-ready control frameworks, evidence pipelines, and compliance automation — then implement the technical controls, not just document them. Rare hybrid: GRC discipline meets RF/aviation security and cyber-physical systems expertise. AI-augmented delivery at 10× capacity.
 
-**Trust signals:** USAF Veteran (service-disabled) · USPTO Patent Holder · Security+ · B.S. Cybersecurity (Dec 2025)
+USAF Veteran (service-disabled) · USPTO Patent Holder · Security+ · B.S. Cybersecurity (Dec 2025)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.pharns.com-blue?style=flat-square)](https://portfolio.pharns.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pharns-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/pharns)
