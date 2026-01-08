@@ -1,124 +1,107 @@
 # Pharns Genece
 
-**GRC Engineer · Cloud Security · Advanced Air Mobility (AAM) Cybersecurity**
+**GRC Engineer · Cloud Security · Detection Engineering · AAM Cybersecurity**
 
-I build audit-ready control frameworks, evidence pipelines, and compliance automation — then implement the technical controls, not just document them. Rare hybrid: GRC discipline meets RF/aviation security and cyber-physical systems expertise. AI-augmented delivery at 10× capacity.
+I build audit-ready control frameworks, evidence pipelines, and compliance automation — then implement the technical controls, not just document them. Rare hybrid: GRC discipline meets RF/aviation security and cyber-physical systems expertise.
 
-USAF Veteran (service-disabled) · USPTO Patent Holder · Security+ · B.S. Cybersecurity (Dec 2025)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.pharns.com-blue?style=flat-square)](https://portfolio.pharns.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pharns-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/pharns)
+**USAF Veteran (Service-Disabled)** · **USPTO Patent Holder** · **Security+** · **B.S. Cybersecurity (Feb 2026)**
 
 ---
 
 ## What I Build
 
-**TraceLock™** *(Patent Pending)* — Multi-domain RF threat detection platform monitoring Wi-Fi, Bluetooth, SDR, GPS, and ADS-B simultaneously. 25 Python modules, 81 shell scripts, ~12,500 LOC with security-hardened architecture. WGU BSCIA Capstone.
+### TraceLock™ *(Patent Pending)*
+Multi-domain RF threat detection platform monitoring Wi-Fi, Bluetooth, SDR, GPS, and ADS-B simultaneously. 8-component sensor array with centralized processing.
+- **Codebase:** 25 Python modules, 81 shell scripts, ~12,500 LOC
+- **Status:** WGU BSCIA Capstone, patent filed
+- [View Project →](https://portfolio.pharns.com/cybersecurity/tracelock/)
 
-**AgenticOS** — Deterministic AI agent orchestration framework with explainable routing, structured logging, and audit-grade execution. 6,361 lines of Python across 5 core scripts, 72 health checks, 4 provider integrations. [View on GitHub](https://github.com/Pharns/AgenticOS)
+### GIAP™ — Governance Automation Platform
+Multi-agent GRC automation with n8n orchestration and CISO Assistant. End-to-end intake workflow operational.
+- **Stack:** Portal + n8n + Nextcloud + SuiteCRM + CISO Assistant
+- **Status:** Production MVP — 4 workflows operational, HMAC webhook security
+- [View Project →](https://portfolio.pharns.com/cybersecurity/giap/)
 
-**GIAP™** *(Infrastructure Live)* — AI-powered governance intake platform. Nextcloud + n8n + SuiteCRM on self-hosted Proxmox VMs. RBAC, retention policies, and workflow automation in progress.
+### Detection & IR Lab
+Security Onion SIEM with TheHive case management and Cortex enrichment.
+- **Detection Content:** 12 custom Sigma-style rules, ~20% FP reduction
+- **IR Playbooks:** 8 documented runbooks
+- [View Project →](https://portfolio.pharns.com/cybersecurity/incident-response/)
 
-**AWS Cloud Control Pack** *(In Progress)* — S3 default-deny storage, GuardDuty findings export, scoped IAM roles with CIS/NIST mapping. Implementation Q1 2026.
+### AgenticOS
+Deterministic AI agent orchestration with explainable routing and audit-grade logging.
+- **Codebase:** 6,361 lines Python, 72 health checks, 4 provider integrations
+- **Status:** Released, open source
+- [View Project →](https://portfolio.pharns.com/innovation/agenticos/)
 
-**PCI-DSS Windows 11 Hardening** — Complete endpoint hardening with GPO, firewall rules, BitLocker, and audit-ready evidence pack delivered in <48 hours.
+### AWS Cloud Control Pack *(In Progress)*
+S3 default-deny, GuardDuty export, scoped IAM with CIS/NIST mapping.
+- **Status:** Architecture complete, CLI implementation Q1 2026
+- [View Project →](https://portfolio.pharns.com/cybersecurity/aws-control-pack/)
 
 ---
 
-## AAM Cybersecurity Specialization
+## Results
 
-**I don't just secure drones — I've designed, built, and fielded UAV systems.**
-
-Advanced Air Mobility (AAM) security requires practitioners who understand the engineering, not just the vulnerabilities. I bring hands-on experience across the full lifecycle:
-
-| Capability | Evidence |
-|------------|----------|
-| **UAV Engineering** | Designed, built, and fielded operational UAV systems |
-| **Granted Patents** | USPTO patents in UAV payload and delivery architectures |
-| **RF Threat Detection** | TraceLock™ 6-domain correlation (Wi-Fi/BLE/SDR/GPS/ADS-B) — rogue APs, trackers, drone proximity |
-| **Aviation Credentials** | FAA Part 107 certified drone pilot |
-| **SDR/Wireless Security** | HackRF, RTL-SDR, Kismet — spectrum analysis and signal intelligence |
-| **Consulting Practice** | AAM Cyber, LLC — cyber-physical security services |
-| **Military Aviation** | USAF aeromedical operations background |
-
-*Targeting emerging roles: UAV Security Engineer · Aviation Cybersecurity · Drone Program Security · Cyber-Physical Systems*
+| Metric | Value |
+|--------|-------|
+| Production infrastructure security | 7 years (USOG, 2017-2024) |
+| Vulnerabilities remediated | 15,000+ |
+| Framework implementation | CIS v8 IG1-IG2 → NIST CSF → SOC 2 |
+| PCI-DSS endpoint hardening | <48 hours with evidence pack |
+| Active certifications | 10 |
 
 ---
 
-## Technical Focus
+## Technical Expertise
 
-```
-GRC Engineering     → NIST CSF · CIS Controls v8 · PCI-DSS v4.0 · SOC 2 · ISO 27001
-Cloud Security      → AWS IAM · S3 Security · GuardDuty · CloudTrail · Policy-as-Code
-Detection           → Security Onion · TheHive/Cortex · SIEM Rules · Alert Tuning
-Automation          → Python · n8n · Multi-agent LLM workflows · Evidence pipelines
-RF/Wireless         → RTL-SDR · HackRF · Kismet · Bluetooth/BLE · ADS-B
-AAM/Aviation        → UAV Security · ADS-B · Drone Detection · Cyber-Physical Systems
-```
+| Domain | Skills |
+|--------|--------|
+| **GRC** | NIST CSF · CIS Controls v8 · PCI-DSS v4.0 · SOC 2 · HIPAA · ISO 27001 |
+| **Cloud Security** | AWS IAM · S3 · GuardDuty · CloudTrail · Policy-as-Code |
+| **Detection** | Security Onion · Wazuh · TheHive/Cortex · Sigma Rules · Alert Tuning |
+| **Automation** | Python · n8n · CISO Assistant · Evidence Pipelines |
+| **RF/Wireless** | RTL-SDR · HackRF · Kismet · Bluetooth/BLE · ADS-B |
+| **AAM/Aviation** | UAV Security · Drone Detection · Cyber-Physical Systems |
 
 ---
 
 ## Credentials
 
-**10 Active Certifications:** Security+, Network+, A+, ITIL4, ISC² CC, SSCP (Assoc.), LPI, Project+, CSIS, CIOS
+### Active (10)
+Security+ · Network+ · A+ · ITIL4 · ISC² CC · SSCP (Assoc.) · LPI · Project+ · CSIS · CIOS
 
-| Certification | Status |
-|---------------|--------|
-| B.S. Cybersecurity & Information Assurance (WGU) | Dec 2025 |
-| CompTIA Security+ | ✅ Active |
-| CompTIA Network+ | ✅ Active |
-| CompTIA A+ | ✅ Active |
-| ISC² SSCP (Associate) | ✅ Active |
-| ISC² CC | ✅ Active |
-| ITIL 4 Foundation | ✅ Active |
-| LPI Linux Essentials | ✅ Active |
-| CompTIA Project+ | ✅ Active |
-| CompTIA CySA+ | Dec 2025 |
-| CompTIA PenTest+ | Dec 2025 |
-| AWS Cloud Practitioner | Q1 2026 |
-| ISC² CCSP | Q1 2026 |
+### Scheduled (Jan 2026)
+CySA+ · PenTest+
 
-**Licenses:** FAA Part 107 (Drone Pilot) · HAM Radio · GMRS
+### Planned (Q1 2026)
+AWS Cloud Practitioner · CCSP
 
-**Veteran:** USAF, Service-Disabled
+### Licenses
+FAA Part 107 · HAM Radio · GMRS
+
+### Education
+**B.S. Cybersecurity & Information Assurance** — Western Governors University (Feb 2026)
+- Capstone: TraceLock™ (patent pending)
 
 ---
 
-## Current Projects
+## AAM Cybersecurity Specialization
 
-| Project | Status | Description |
-|---------|--------|-------------|
-| [TraceLock™](https://github.com/Pharns/Tracelock-SSD) | Patent Pending | RF surveillance detection — WGU capstone |
-| [AgenticOS](https://github.com/Pharns/AgenticOS) | Released | Deterministic AI agent orchestration |
-| [Portfolio](https://portfolio.pharns.com) | Live | GRC engineering portfolio site |
-| GIAP™ | Infrastructure Live | Governance intake platform on Proxmox |
-| AWS Control Pack | In Progress | Cloud security baseline — Q1 2026 |
-| Detection Lab | Active | Security Onion + TheHive/Cortex |
+Advanced Air Mobility security requires practitioners who understand engineering fundamentals:
 
----
+- USPTO-granted patents in UAV payload and delivery systems
+- TraceLock™ RF detection across 6 wireless domains
+- FAA Part 107 certified drone pilot
+- Software-defined radio and wireless security expertise
+- AAM Cyber, LLC consulting operations
 
-## Why Hire Me
-
-Most GRC professionals write policies and manage spreadsheets. I architect and build the technical systems that satisfy those controls:
-
-- **Cloud governance** — Designing AWS baselines with CIS/NIST mapping
-- **Endpoint compliance** — Deliver hardened configs with complete evidence packs
-- **Compliance automation** — Build intake workflows, not just document them
-- **Detection engineering** — Author SIEM rules, tune false positives, write playbooks
-- **AI-augmented delivery** — 10× velocity with human review
-
-> *"Pharns delivered a complete compliance package with documentation quality that rivals consultants with twice his experience. His ability to implement technical controls while maintaining audit-ready evidence is rare."*
->
-> — Security stakeholder, client engagement via AAM Cyber, LLC
+**Target roles:** UAV Security Engineer · Aviation Cybersecurity · Drone Program Security
 
 ---
 
-## Let's Connect
+## Connect
 
-- **Portfolio:** [portfolio.pharns.com](https://portfolio.pharns.com)
-- **LinkedIn:** [linkedin.com/in/pharns](https://linkedin.com/in/pharns)
-- **Email:** [Contact Page](https://portfolio.pharns.com/contact/)
-
----
-
-<sub>*Targeting: GRC Engineer · Cloud Security Engineer · AAM/UAV Security · Detection Engineering · Cyber-Physical Systems*</sub>
+**Portfolio:** [portfolio.pharns.com](https://portfolio.pharns.com)
+**LinkedIn:** [linkedin.com/in/pharns](https://linkedin.com/in/pharns)
+**Certifications:** [Credly](https://www.credly.com/users/pharns)
