@@ -1,10 +1,29 @@
 # Pharns Genece
 
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work%20(Feb%202026)-brightgreen?style=flat-square)
+![Remote](https://img.shields.io/badge/Remote-US%20%7C%20EU%20%7C%20International-blue?style=flat-square)
+![Clearance](https://img.shields.io/badge/Clearance-Eligible-orange?style=flat-square)
+![RF/SDR](https://img.shields.io/badge/RF%2FSDR-Hardware%20Security-purple?style=flat-square)
+
 **GRC Engineer · Cloud Security · Detection Engineering · AAM Cybersecurity**
 
 I build audit-ready control frameworks, evidence pipelines, and compliance automation — then implement the technical controls, not just document them. Rare hybrid: GRC discipline meets RF/aviation security and cyber-physical systems expertise.
 
-**USAF Veteran (Service-Disabled)** · **USPTO Patent Holder** · **Security+** · **B.S. Cybersecurity (Feb 2026)**
+📧 [careers@pharns.com](mailto:careers@pharns.com) · 🌐 [portfolio.pharns.com](https://portfolio.pharns.com) · 💼 [LinkedIn](https://linkedin.com/in/pharns)
+
+**USAF Veteran (Service-Disabled)** · **USPTO Patent Holder** · **Security+** · **10 Active Certifications**
+
+---
+
+## Actively Seeking
+
+| Category | Details |
+|----------|---------|
+| **Target Roles** | GRC Engineer · Cloud Security Engineer · Detection Engineer · Security Controls Specialist |
+| **Availability** | February 2026 (B.S. graduation) |
+| **Work Style** | Remote-first · Async-ready · Distributed team experience |
+| **Location** | US/EU/International — visa sponsorship required for non-US |
+| **Engagement** | W-2 · Contract · Consulting — contractor available for international companies |
 
 ---
 
@@ -20,7 +39,7 @@ Multi-domain RF threat detection platform monitoring Wi-Fi, Bluetooth, SDR, GPS,
 Multi-agent GRC automation with n8n orchestration and CISO Assistant. End-to-end intake workflow operational.
 - **Stack:** Portal + n8n + Nextcloud + SuiteCRM + CISO Assistant
 - **Status:** Production MVP — 4 workflows operational, HMAC webhook security
-- [View Project →](https://portfolio.pharns.com/cybersecurity/giap/)
+- [Live Demo](https://portal.aamcyber.work/demo/) · [View Project →](https://portfolio.pharns.com/cybersecurity/giap/)
 
 ### Detection & IR Lab
 Security Onion SIEM with TheHive case management and Cortex enrichment.
@@ -32,12 +51,11 @@ Security Onion SIEM with TheHive case management and Cortex enrichment.
 Deterministic AI agent orchestration with explainable routing and audit-grade logging.
 - **Codebase:** 6,361 lines Python, 72 health checks, 4 provider integrations
 - **Status:** Released, open source
-- [View Project →](https://portfolio.pharns.com/innovation/agenticos/)
+- [View Project →](https://portfolio.pharns.com/innovation/agenticos/) · [GitHub Repo](https://github.com/Pharns/AgenticOS)
 
-### AWS Cloud Control Pack *(In Progress)*
+### AWS Cloud Control Pack *(Coming Q1 2026)*
 S3 default-deny, GuardDuty export, scoped IAM with CIS/NIST mapping.
-- **Status:** Architecture complete, CLI implementation Q1 2026
-- [View Project →](https://portfolio.pharns.com/cybersecurity/aws-control-pack/)
+- **Status:** Architecture complete, CLI implementation in progress
 
 ---
 
@@ -45,7 +63,7 @@ S3 default-deny, GuardDuty export, scoped IAM with CIS/NIST mapping.
 
 | Metric | Value |
 |--------|-------|
-| Production infrastructure security | 7 years (USOG, 2017-2024) |
+| Production infrastructure security | 7 years (USOG, 2017–2024) |
 | Vulnerabilities remediated | 15,000+ |
 | Framework implementation | CIS v8 IG1-IG2 → NIST CSF → SOC 2 |
 | PCI-DSS endpoint hardening | <48 hours with evidence pack |
@@ -82,7 +100,7 @@ FAA Part 107 · HAM Radio · GMRS
 
 ### Education
 **B.S. Cybersecurity & Information Assurance** — Western Governors University (Feb 2026)
-- Capstone: TraceLock™ (patent pending)
+Capstone: TraceLock™ (patent pending)
 
 ---
 
@@ -102,6 +120,14 @@ Advanced Air Mobility security requires practitioners who understand engineering
 
 ## Connect
 
-**Portfolio:** [portfolio.pharns.com](https://portfolio.pharns.com)
-**LinkedIn:** [linkedin.com/in/pharns](https://linkedin.com/in/pharns)
-**Certifications:** [Credly](https://www.credly.com/users/pharns)
+| Channel | Link |
+|---------|------|
+| **Email** | [careers@pharns.com](mailto:careers@pharns.com) |
+| **Portfolio** | [portfolio.pharns.com](https://portfolio.pharns.com) |
+| **LinkedIn** | [linkedin.com/in/pharns](https://linkedin.com/in/pharns) |
+| **Certifications** | [Credly](https://www.credly.com/users/pharns) |
+| **Schedule Call** | [Calendly](https://calendly.com/pharns) |
+
+---
+
+<sub>*Open to remote opportunities worldwide. US Citizen. Visa sponsorship required for relocation.*</sub>
