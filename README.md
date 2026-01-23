@@ -5,7 +5,7 @@
 ![Clearance](https://img.shields.io/badge/Clearance-Eligible-orange?style=flat-square)
 ![RF/SDR](https://img.shields.io/badge/RF%2FSDR-Hardware%20Security-purple?style=flat-square)
 
-**GRC Engineer · Cloud Security · Detection Engineering · AAM Cybersecurity**
+**GRC Engineer · Cloud Security · Detection Engineering · RF/SDR Security**
 
 I build audit-ready control frameworks, evidence pipelines, and compliance automation — then implement the technical controls, not just document them. Rare hybrid: GRC discipline meets RF/aviation security and cyber-physical systems expertise.
 
@@ -19,7 +19,7 @@ I build audit-ready control frameworks, evidence pipelines, and compliance autom
 
 | Category | Details |
 |----------|---------|
-| **Target Roles** | GRC Engineer · Cloud Security Engineer · Detection Engineer · Security Controls Specialist |
+| **Target Roles** | GRC Engineer · Cloud Security Engineer · Detection Engineer · RF/Wireless Security |
 | **Availability** | February 2026 (B.S. graduation) |
 | **Work Style** | Remote-first · Async-ready · Distributed team experience |
 | **Location** | US/EU/International — visa sponsorship required for non-US |
