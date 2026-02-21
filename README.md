@@ -88,7 +88,7 @@ S3 default-deny · GuardDuty export · Scoped IAM with CIS/NIST mapping
 Security+ · Network+ · A+ · ITIL 4 · ISC² CC · SSCP (Assoc.) · LPI · Project+ · CSIS · CIOS · CySA+ · CSAP
 
 ### Pending
-PenTest+ (Scheduled Next Week)
+PenTest+ (Feb 2026)
 
 ### Planned (2026)
 AWS Cloud Practitioner · CCSP
