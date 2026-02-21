@@ -7,7 +7,7 @@
 
 **Security Engineer | GRC · Cloud Security · Detection Engineering · RF/Wireless Security**
 
-I design and implement risk-based security controls across cloud and regulated environments, translating CIS, NIST, and ISO frameworks into audit-ready enforcement and detection.
+I design and implement risk-based security controls across cloud and regulated environments, translating CIS, NIST, and ISO frameworks into audit-ready enforcement, validation, and detection.
 
 📧 [careers@pharns.com](mailto:careers@pharns.com) · 🌐 [portfolio.pharns.com](https://portfolio.pharns.com) · 💼 [LinkedIn](https://linkedin.com/in/pharns)
 
