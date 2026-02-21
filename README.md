@@ -7,7 +7,7 @@
 
 **Security Engineer | GRC · Cloud Security · Detection Engineering · RF/Wireless Security**
 
-I design and implement security controls across cloud and regulated environments, translating CIS, NIST, and ISO frameworks into audit-ready enforcement and detection.
+I design and implement risk-based security controls across cloud and regulated environments, translating CIS, NIST, and ISO frameworks into audit-ready enforcement and detection.
 
 📧 [careers@pharns.com](mailto:careers@pharns.com) · 🌐 [portfolio.pharns.com](https://portfolio.pharns.com) · 💼 [LinkedIn](https://linkedin.com/in/pharns)
 
@@ -64,10 +64,10 @@ S3 default-deny · GuardDuty export · Scoped IAM with CIS/NIST mapping
 |--------|-------|
 | Production infrastructure security | 7 years (USOG, 2017–2024) |
 | Vulnerabilities remediated | 15,000+ |
-| Framework implementation | CIS v8 → NIST CSF → SOC 2 mapping |
+| Framework implementation | CIS v8 → NIST CSF → SOC 2 mapping across regulated environments |
+| Compliance enablement | Audit-ready evidence pipelines for PCI-DSS & multi-framework controls |
 | PCI-DSS endpoint hardening | <48 hours with documented evidence pack |
 | Active certifications | 12 |
-
 ---
 
 ## Technical Expertise
