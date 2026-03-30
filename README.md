@@ -29,10 +29,10 @@ I design and implement risk-based security controls across cloud and regulated e
 
 ## What I Build
 
-### TraceLock™ *(Patent Pending)*
-Multi-domain RF threat detection platform monitoring Wi-Fi, Bluetooth, SDR, GPS, and ADS-B simultaneously. Centralized sensor aggregation with structured logging and detection workflows.
-- **Codebase:** 25 Python modules · 81 shell scripts · ~12,500 LOC  
-- **Status:** WGU BSCIA Capstone  
+### TraceLock™
+Multi-domain RF threat detection platform monitoring wireless domains simultaneously. Centralized sensor aggregation with structured logging and detection workflows.
+- **Codebase:** 25 Python modules · 81 shell scripts · ~12,500 LOC
+- **Status:** WGU BSCSIA Capstone
 - [View Project →](https://portfolio.pharns.com/cybersecurity/tracelock/)
 
 ### GIAP™ — Governance Automation Platform
@@ -101,10 +101,10 @@ Capstone: TraceLock™
 
 ## AAM / Cyber-Physical Systems Differentiation
 
-- USPTO-granted patents in UAV payload systems  
-- Multi-domain RF detection architecture  
-- FAA Part 107 certified  
-- Software-defined radio & wireless security expertise  
+- USPTO-granted patents in UAV payload systems
+- Multi-domain RF detection architecture
+- FAA Part 107 certified
+- Software-defined radio & wireless security expertise
 
 ---
 
