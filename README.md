@@ -5,13 +5,13 @@
 ![Clearance](https://img.shields.io/badge/Clearance-Eligible-orange?style=flat-square)
 ![RF/SDR](https://img.shields.io/badge/RF%2FSDR-Hardware%20Security-purple?style=flat-square)
 
-**Security Architect & GRC Engineer**
+**Security Architect & AI Agent Governance Researcher**
 
 I build the controls I document — cloud guardrails, endpoint hardening, evidence pipelines, and detection workflows that stand up in real operations and audits.
 
 📧 [career@pharns.com](mailto:career@pharns.com) · 🌐 [portfolio.pharns.com](https://portfolio.pharns.com) · 💼 [LinkedIn](https://linkedin.com/in/pharns)
 
-**USAF Veteran (Service-Disabled)** · **USPTO Patent Holder** · **14 Active Certifications**
+**USAF Veteran (Service-Disabled)** · **USPTO Patent Holder** · **15 Active Certifications**
 
 ---
 
@@ -49,6 +49,15 @@ Security Onion SIEM with TheHive/Cortex case management, custom detection rules,
 - **Detection Content:** Sigma-style rules · Alert tuning · False positive reduction
 - [View Project →](https://portfolio.pharns.com/cybersecurity/incident-response/)
 
+### SDOS — Sovereign Decision & Orchestration System
+Runtime governance for autonomous AI agents — policy enforcement at the point of action, not after.
+- **Architecture:** Risk-tiered classification (R1/R2/R3) at dispatch across a federated multi-gateway architecture
+- **Governance:** Multiple Policy Enforcement Points governing agent behavior before execution
+- **Memory:** Governed vector memory under the same policy pipeline as agent actions
+- **Audit:** Immutable, append-only decision log — not modifiable by governed agents
+- **Status:** Operational — USPTO Provisional Patent 64/029,300
+- [View Project →](https://github.com/Pharns/sdos-public)
+
 ### AgenticOS
 Deterministic AI agent orchestration with explainable routing and audit-grade logging.
 - **Codebase:** 6,361 lines Python · 72 health checks · 4 provider integrations
@@ -65,7 +74,7 @@ Deterministic AI agent orchestration with explainable routing and audit-grade lo
 | PCI-DSS endpoint hardening | <48 hours with full evidence pack |
 | Framework implementation | CIS v8 → NIST CSF → SOC 2 across regulated environments |
 | Client compliance delivered | HIPAA · PCI-DSS · SOC 2 (healthcare, financial services, legal) |
-| Active certifications | 14 |
+| Active certifications | 15 |
 
 ---
 
@@ -96,8 +105,8 @@ Few practitioners combine these:
 
 ## Credentials
 
-### Active (14)
-Security+ · CySA+ · CSAP · PenTest+ · CNSP · CNVP · Network+ · A+ · ITIL 4 · ISC² SSCP (Assoc.) · LPI · Project+ · CSIS · CIOS
+### Active (15)
+Security+ · CySA+ · CSAP · PenTest+ · CNSP · CNVP · Network+ · A+ · ITIL 4 · ISC² SSCP · ISC² CC · LPI · Project+ · CSIS · CIOS
 
 ### Planned (2026)
 AWS Cloud Practitioner · ISC² CCSP
