@@ -11,7 +11,7 @@ I build the controls I document — cloud guardrails, endpoint hardening, eviden
 
 📧 [career@pharns.com](mailto:career@pharns.com) · 🌐 [portfolio.pharns.com](https://portfolio.pharns.com) · 💼 [LinkedIn](https://linkedin.com/in/pharns)
 
-**USAF Veteran (Service-Disabled)** · **USPTO Patent Holder** · **15 Active Certifications**
+**USAF Veteran (Service-Disabled)** · **USPTO Patent Holder** · **NIST OLIR Cataloged (×3)** · **15 Active Certifications**
 
 ---
 
@@ -19,7 +19,7 @@ I build the controls I document — cloud guardrails, endpoint hardening, eviden
 
 - **I implement controls, not just map them.** Framework requirements become working configurations, monitoring logic, and documented evidence — not recommendations in a report.
 - **I connect governance to operations.** Design through implementation through audit-ready outputs — the documentation reflects what actually runs.
-- **Unusual edge-domain depth.** RF/UAS security (USPTO patents, TraceLock™), governed automation systems, and real operator experience across USAF, a $5.6M startup build, and active consulting.
+- **Unusual edge-domain depth.** RF/UAS security (USPTO patents, TraceLock™), governed automation systems, and real operator experience across USAF, a venture-funded drone logistics startup, and active consulting.
 
 ---
 
@@ -49,13 +49,13 @@ Security Onion SIEM with TheHive/Cortex case management, custom detection rules,
 - **Detection Content:** Sigma-style rules · Alert tuning · False positive reduction
 - [View Project →](https://portfolio.pharns.com/cybersecurity/incident-response/)
 
-### SDOS — Sovereign Decision & Orchestration System
+### SDOS — A Governed Execution Framework for Autonomous AI Agents
 Runtime governance for autonomous AI agents — policy enforcement at the point of action, not after.
 - **Architecture:** Risk-tiered classification (R1/R2/R3) at dispatch across a federated multi-gateway architecture
 - **Governance:** Multiple Policy Enforcement Points governing agent behavior before execution
 - **Memory:** Governed vector memory under the same policy pipeline as agent actions
 - **Audit:** Immutable, append-only decision log — not modifiable by governed agents
-- **Status:** Operational — USPTO Provisional Patent 64/029,300
+- **Status:** Operational — subject of multiple USPTO provisional filings (first: 64/029,300); cataloged in the NIST OLIR program as three Draft Informative References (Ref 212 / AI RMF 1.0, Ref 215 / CSF 2.0, Ref 217 / SP 800-53 Rev 5.2.0)
 - [View Project →](https://github.com/Pharns/sdos-public)
 
 ### AgenticOS
@@ -87,7 +87,7 @@ Few practitioners combine these:
 - **FAA Part 107** certified · **HAM/GMRS** licensed
 - **SDR/wireless expertise** — RTL-SDR, HackRF, Kismet, spectrum analysis
 - **USAF career veteran** — mission-critical operations background
-- **CEO of $5.6M drone logistics company** — 7 years hands-on UAV engineering
+- **Founder & CEO of a venture-funded drone logistics company** — 7 years hands-on UAV engineering
 
 ---
 
