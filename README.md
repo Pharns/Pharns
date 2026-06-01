@@ -108,6 +108,9 @@ Few practitioners combine these:
 ### Active (15)
 Security+ · CySA+ · CSAP · PenTest+ · CNSP · CNVP · Network+ · A+ · ITIL 4 · ISC² SSCP · ISC² CC · LPI · Project+ · CSIS · CIOS
 
+### Federal & Standards
+NIST OLIR Program — 3 Draft Informative References cataloged (AI RMF 1.0, CSF 2.0, SP 800-53 Rev 5.2.0)
+
 ### Planned (2026)
 AWS Cloud Practitioner · ISC² CCSP
 
