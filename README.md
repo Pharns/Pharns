@@ -11,7 +11,7 @@ I build the controls I document — cloud guardrails, endpoint hardening, eviden
 
 📧 [career@pharns.com](mailto:career@pharns.com) · 🌐 [portfolio.pharns.com](https://portfolio.pharns.com) · 💼 [LinkedIn](https://linkedin.com/in/pharns)
 
-**USAF Veteran (Service-Disabled)** · **USPTO Patent Holder** · **NIST OLIR Cataloged (×3)** · **15 Active Certifications**
+**USAF Veteran (Service-Disabled)** · **USPTO Patent-Filed (5 Provisionals)** · **NIST OLIR Cataloged (×3)** · **15 Active Certifications**
 
 ---
 
@@ -19,7 +19,7 @@ I build the controls I document — cloud guardrails, endpoint hardening, eviden
 
 - **I implement controls, not just map them.** Framework requirements become working configurations, monitoring logic, and documented evidence — not recommendations in a report.
 - **I connect governance to operations.** Design through implementation through audit-ready outputs — the documentation reflects what actually runs.
-- **Unusual edge-domain depth.** RF/UAS security (USPTO patents, TraceLock™), governed automation systems, and real operator experience across USAF, a venture-funded drone logistics startup, and active consulting.
+- **Unusual edge-domain depth.** RF/UAS security (patent-filed, TraceLock™), governed automation systems, and real operator experience across USAF, a venture-funded drone logistics startup, and active consulting.
 
 ---
 
@@ -33,10 +33,10 @@ Production GRC automation platform — end-to-end intake workflow with n8n orche
 - [View Project →](https://portfolio.pharns.com/cybersecurity/giap/) · [Try Live Demo →](https://portal.aamcyber.work/demo/)
 
 ### TraceLock™ — Multi-Domain RF Threat Detection
-Patent-pending RF surveillance detection across 6 wireless domains simultaneously with forensic-grade logging.
+Patent-filed RF surveillance detection across 6 wireless domains simultaneously with forensic-grade logging.
 - **Codebase:** 25 Python modules · 81 shell scripts · ~12,500 LOC
 - **Domains:** Wi-Fi · BLE · SDR · GPS · ADS-B · ISM
-- **Status:** WGU BSCSIA Capstone · Patent Pending
+- **Status:** WGU BSCSIA Capstone · Patent-Filed
 - [View Project →](https://portfolio.pharns.com/cybersecurity/tracelock/)
 
 ### AWS Cloud Control Pack
@@ -55,7 +55,7 @@ Runtime governance for autonomous AI agents — policy enforcement at the point 
 - **Governance:** Multiple Policy Enforcement Points governing agent behavior before execution
 - **Memory:** Governed vector memory under the same policy pipeline as agent actions
 - **Audit:** Immutable, append-only decision log — not modifiable by governed agents
-- **Status:** Operational — subject of multiple USPTO provisional filings (first: 64/029,300); cataloged in the NIST OLIR program as three Draft Informative References (Ref 212 / AI RMF 1.0, Ref 215 / CSF 2.0, Ref 217 / SP 800-53 Rev 5.2.0)
+- **Status:** Operational — subject of five USPTO provisional filings (first: 64/029,300, filed April 4, 2026); cataloged in the NIST OLIR program as three Draft Informative References (Ref 212 / AI RMF 1.0, Ref 215 / CSF 2.0, Ref 217 / SP 800-53 Rev 5.2.0)
 - [View Project →](https://github.com/Pharns/sdos-public)
 
 ### AgenticOS
@@ -82,8 +82,8 @@ Deterministic AI agent orchestration with explainable routing and audit-grade lo
 
 Few practitioners combine these:
 
-- **USPTO-granted patents** in UAV payload and delivery architectures
-- **TraceLock™** — patent-pending 6-domain RF detection platform
+- **Deep UAV systems background** — payload and delivery architecture engineering from 7 years founding and operating a drone logistics company
+- **TraceLock™** — patent-filed 6-domain RF detection platform
 - **FAA Part 107** certified · **HAM/GMRS** licensed
 - **SDR/wireless expertise** — RTL-SDR, HackRF, Kismet, spectrum analysis
 - **USAF career veteran** — mission-critical operations background
