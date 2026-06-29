@@ -11,7 +11,9 @@ I build the controls I document — cloud guardrails, endpoint hardening, eviden
 
 📧 [career@pharns.com](mailto:career@pharns.com) · 🌐 [portfolio.pharns.com](https://portfolio.pharns.com) · 💼 [LinkedIn](https://linkedin.com/in/pharns)
 
-**USAF Veteran (Service-Disabled)** · **USPTO Patent Holder** · **NIST OLIR Cataloged (×3)** · **15 Active Certifications**
+**Architect of the AQ Score™** — the independent measurement standard for governed autonomous action.
+
+**USAF Veteran (Service-Disabled)** · **USPTO Patent-Filed (named inventor)** · **NIST OLIR Cataloged (×3, Final)** · **15 Active Certifications**
 
 ---
 
