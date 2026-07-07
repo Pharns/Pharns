@@ -57,7 +57,7 @@ Runtime governance for autonomous AI agents — policy enforcement at the point 
 - **Governance:** Multiple Policy Enforcement Points governing agent behavior before execution
 - **Memory:** Governed vector memory under the same policy pipeline as agent actions
 - **Audit:** Immutable, append-only decision log — not modifiable by governed agents
-- **Status:** Operational — subject of multiple USPTO provisional filings (first: 64/029,300); cataloged in the NIST OLIR program as three Final Informative References (Ref 212 / AI RMF 1.0, Ref 215 / CSF 2.0, Ref 217 / SP 800-53 Rev 5.2.0)
+- **Status:** Operational — subject of multiple USPTO provisional filings (first: 64/029,300); cataloged in the NIST OLIR program as three Final Informative References (Ref 220 / AI RMF 1.0, Ref 215 / CSF 2.0, Ref 217 / SP 800-53 Rev 5.2.0)
 - [View Project →](https://github.com/Pharns/sdos-public)
 
 ### AgenticOS
