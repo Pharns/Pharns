@@ -2,7 +2,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)
 ![Remote](https://img.shields.io/badge/Remote-US%20%7C%20EU%20%7C%20International-blue?style=flat-square)
-![Clearance](https://img.shields.io/badge/Clearance-Eligible-orange?style=flat-square)
+![Clearance](https://img.shields.io/badge/Clearance-Secret%20(inactive)-orange?style=flat-square)
 ![RF/SDR](https://img.shields.io/badge/RF%2FSDR-Hardware%20Security-purple?style=flat-square)
 
 **Security Architect & AI Agent Governance Researcher**
@@ -13,7 +13,7 @@ I build the controls I document — cloud guardrails, endpoint hardening, eviden
 
 **Architect of the AQ Score™** — the independent measurement standard for governed autonomous action.
 
-**USAF Veteran (Service-Disabled)** · **USPTO Patent-Filed (named inventor)** · **NIST OLIR Cataloged (×3, Final)** · **15 Active Certifications**
+**USAF Veteran** · **USPTO Patent-Filed (named inventor)** · **NIST OLIR Cataloged (×3, Final)** · **17 Active Certifications**
 
 ---
 
@@ -70,6 +70,15 @@ Runtime governance for autonomous AI agents — policy enforcement at the point 
 - **Status:** Operational — subject of multiple USPTO provisional filings (first: 64/029,300); cataloged in the NIST OLIR program as three Final Informative References (Ref 220 / AI RMF 1.0, Ref 215 / CSF 2.0, Ref 217 / SP 800-53 Rev 5.2.0)
 - [View Project →](https://github.com/Pharns/sdos-public)
 
+### dbt CTI Pipeline — Behavioral Analytics from Threat Feeds
+
+Ingests live CTI feeds (abuse.ch URLhaus + ThreatFox) and transforms them into behavioral-analytics tables with dbt.
+
+- **Stack:** dbt Core · DuckDB · Python — staging → intermediate → mart models, tested and documented
+- **Marts:** IOC volume by threat family · daily volume vs. 7-day baseline (anomaly-ready) · cross-feed corroborated IOCs (multi-source correlation)
+- **Verified:** 6 models · 14 passing tests · full lineage DAG
+- [View Project →](https://github.com/Pharns/dbt-cti-pipeline)
+
 ### AgenticOS
 
 Deterministic AI agent orchestration with explainable routing and audit-grade logging.
@@ -88,7 +97,7 @@ Deterministic AI agent orchestration with explainable routing and audit-grade lo
 | PCI-DSS endpoint hardening         | <48 hours with full evidence pack                            |
 | Framework implementation           | CIS v8 → NIST CSF → SOC 2 across regulated environments      |
 | Client compliance delivered        | HIPAA · PCI-DSS · SOC 2 (healthcare, financial services, legal) |
-| Active certifications              | 15                                                           |
+| Active certifications              | 17                                                           |
 
 ---
 
@@ -119,9 +128,9 @@ Few practitioners combine these:
 
 ## Credentials
 
-### Active (15)
+### Active (17)
 
-Security+ · CySA+ · CSAP · PenTest+ · CNSP · CNVP · Network+ · A+ · ITIL 4 · ISC² SSCP · ISC² CC · LPI · Project+ · CSIS · CIOS
+Security+ · CySA+ · PenTest+ · Network+ · A+ · Project+ · CSAP · CSIS · CIOS · ISC² SSCP · ISC² CC · ITIL 4 · LPI · CNSP (CompTIA) · CNVP (CompTIA) · CNSP (SecOps Group) · CNVP (SecOps Group)
 
 ### Federal & Standards
 
